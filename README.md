@@ -1,6 +1,6 @@
 # DOSM Household Income RAG Chatbot
 
-A fully local RAG chatbot over Malaysian Household Income statistics from [open.dosm.gov.my](https://open.dosm.gov.my), built with n8n, Qdrant, and Ollama. Answers questions with citation, handles off topic queries, and support CSV export.
+A fully local RAG chatbot by Akmal over Malaysian Household Income statistics from [open.dosm.gov.my](https://open.dosm.gov.my), built with n8n, Qdrant, and Ollama. Answers questions with citation, handles off topic queries, and support CSV export.
 
 ---
 
