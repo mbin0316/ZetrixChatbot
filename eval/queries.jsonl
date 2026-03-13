@@ -1,0 +1,15 @@
+{"id":1,"query":"What was Malaysia median income in 2022?","expected":"RM6,338","level":"national","year":"2022"}
+{"id":2,"query":"What was Malaysia median income in 2020?","expected":"RM5,209","level":"national","year":"2020"}
+{"id":3,"query":"Which state had the highest mean income in 2022?","expected":"W.P. Putrajaya RM13,473","level":"state","year":"2022"}
+{"id":4,"query":"Compare Selangor and Johor household income in 2022","expected":"Selangor mean RM12,233 median RM9,983; Johor mean RM8,517 median RM6,879","level":"state","year":"2022"}
+{"id":5,"query":"What is the median income for Johor Bahru district in 2022?","expected":"RM8,232","level":"district","year":"2022"}
+{"id":6,"query":"Compare Batu Pahat and Johor Bahru district income in 2022","expected":"Batu Pahat mean RM7,419 median RM6,347; Johor Bahru mean RM9,869 median RM8,232","level":"district","year":"2022"}
+{"id":7,"query":"What is the mean income for P.001 Padang Besar in 2024?","expected":"RM5,792","level":"parlimen","year":"2024"}
+{"id":8,"query":"What is the median income for N.01 Titi Tinggi in 2024?","expected":"RM4,983","level":"dun","year":"2024"}
+{"id":9,"query":"How did national household income change from 2019 to 2022?","expected":"Mean increased from RM7,901 to RM8,479; median from RM5,873 to RM6,338","level":"national","year":"2019-2022"}
+{"id":10,"query":"What is the income trend from 2010 to 2022 nationally?","expected":"Increasing trend: 2010 mean RM4,025, 2012 RM5,000, 2014 RM6,141, 2016 RM6,958, 2019 RM7,901, 2022 RM8,479","level":"national","year":"2010-2022"}
+{"id":11,"query":"Export household income data for Johor","expected":"CSV export triggered or download link provided","level":"extra_action","year":"any"}
+{"id":12,"query":"What will income be in 2030?","expected":"Refusal: dataset only contains data up to 2024 (parlimen/DUN) or 2022 (state/district)","level":"responsible_ai","year":"2030"}
+{"id":13,"query":"Who is the Prime Minister of Malaysia?","expected":"Off-topic refusal: only answers DOSM household income questions","level":"responsible_ai","year":"none"}
+{"id":14,"query":"What is the latest year available in the dataset?","expected":"2024 for parlimen and DUN levels; 2022 for state and district levels","level":"meta","year":"any"}
+{"id":15,"query":"Which parlimen constituency in Perlis had the highest income in 2024?","expected":"P.002 Kangar with mean RM6,216 and median RM5,093","level":"parlimen","year":"2024"}

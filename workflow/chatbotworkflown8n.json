@@ -1,0 +1,554 @@
+{
+  "name": "Malaysian Household Income Chatbot with RAG and Confidence Filtering",
+  "nodes": [
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "id-1",
+              "name": "query",
+              "value": "={{ $json.body.chatInput.toLowerCase() }}",
+              "type": "string"
+            },
+            {
+              "id": "id-2",
+              "name": "isOnTopic",
+              "value": "={{\n$json.body.chatInput.toLowerCase().includes('income') ||\n$json.body.chatInput.toLowerCase().includes('salary') ||\n$json.body.chatInput.toLowerCase().includes('median') ||\n$json.body.chatInput.toLowerCase().includes('household')\n}}",
+              "type": "boolean"
+            },
+            {
+              "id": "id-3",
+              "name": "timestamp",
+              "value": "={{ $now.toISO() }}",
+              "type": "string"
+            },
+            {
+              "id": "id-4",
+              "name": "input",
+              "value": "={{$json.body.chatInput}}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "4f43fe42-e8d8-4279-93fc-7222fecae8ab",
+      "name": "Intent Check",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -640,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "id-1",
+              "leftValue": "={{ $json.isOnTopic }}",
+              "operator": {
+                "type": "boolean",
+                "operation": "true"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "4ef0d82c-06f7-4c03-bb5f-c86582015d47",
+      "name": "Topic Guard",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        -320,
+        432
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "This chatbot only answers questions about Malaysian household income data from DOSM. Please ask about income, median salary, state comparisons, or constituency data.",
+        "options": {}
+      },
+      "id": "10405a76-c452-4cf5-b753-5d015ceec5fc",
+      "name": "Off-Topic Refusal",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        -160,
+        608
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "id-1",
+              "name": "response",
+              "value": "={{ $json.answer }}",
+              "type": "string"
+            },
+            {
+              "id": "id-2",
+              "name": "isLowConfidence",
+              "value": "={{\n$json.answer.toLowerCase().includes(\"cannot find\") ||\n$json.answer.toLowerCase().includes(\"not found\")\n}}",
+              "type": "boolean"
+            },
+            {
+              "id": "id-3",
+              "name": "clarification",
+              "value": "I could not find specific data for your query. Could you clarify:\n• Which state or district?\n• Which year (2019, 2020, 2022, 2024)?\n• Are you looking for mean or median income?",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "cbb3e38c-e4c7-47fc-8e39-9fd88d64d67e",
+      "name": "Confidence Check",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        800,
+        192
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "id-1",
+              "leftValue": "={{ $json.isLowConfidence }}",
+              "rightValue": false,
+              "operator": {
+                "type": "boolean",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "e80d2fb8-6086-464e-bd92-7f8b9ddde6bc",
+      "name": "Confidence Gate",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        992,
+        224
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "=",
+        "options": {}
+      },
+      "id": "7c2d9fca-203f-4a6b-a6af-c50ecb3a9849",
+      "name": "Clarification Request",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        1344,
+        576
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "={{ $json.response }}",
+        "options": {}
+      },
+      "id": "6fc859b9-6533-4a7f-9cd7-8fc81e26a689",
+      "name": "Final Answer",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        1248,
+        272
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1xjhQqAynntz7jjVbqTSybsweN9EI_O_GL3U3e4541mw",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "0",
+          "mode": "id"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "timestamp": "={{$json.timestamp}}",
+            "query": "={{$('Intent Check').first().json.query}}",
+            "answer": "={{$json.answer}}",
+            "latencyMs": "={{$json.latencyMs}}",
+            "has_citation": "={{$json.answer.includes('dosm.gov.my')}}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "timestamp",
+              "displayName": "timestamp",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "query",
+              "displayName": "query",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "answer",
+              "displayName": "answer",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "latencyMs",
+              "displayName": "latencyMs",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "has_citation",
+              "displayName": "has_citation",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "id": "1043692f-dd4f-4e32-a838-925bcd778bfe",
+      "name": "Query Logger",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        1712,
+        304
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "LCTPQBMNoAdAhdJo",
+          "name": "Google Sheets account 3"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "={{ $json.answer }}",
+        "options": {
+          "responseCode": 200
+        }
+      },
+      "id": "5086f5fc-9713-4ea7-9df2-437aa4938a9e",
+      "name": "Final Response",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        1936,
+        304
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "  const response  = $json.response || '';\n  const query     = $json.query || '';\n  const latencyMs = $json.latencyMs || 0;\n\n  // Clean up the response and ensure citation footer is present\n  let finalResponse = response.trim();\n\n  if (!finalResponse.includes('open.dosm.gov.my')) {\n    finalResponse += '\\n\\n---\\nData source: DOSM | open.dosm.gov.my | CC BY 4.0';\n  }\n\n  return [{\n    json: {\n      query: query,\n      answer: finalResponse,\n      latencyMs: latencyMs,\n      timestamp: new Date().toISOString(),\n    }\n  }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1488,
+        288
+      ],
+      "id": "32d612a3-38c7-4f94-a6d8-b3507041cc5d",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "chat",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "3a059a18-f8e9-4256-9929-79be23a81fa9",
+      "name": "Chat Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -976,
+        432
+      ],
+      "webhookId": "2512c936-848f-4bec-a49a-dec4f6fd8ec8"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $json.query || $json.input }}",
+        "options": {
+          "systemMessage": "=You are a Malaysian Household Income data assistant.\nYou ONLY answer questions about DOSM household income statistics.\n\nWhen calling the household_income_data tool, always pass a specific query that includes:\n- The exact state/district/constituency name\n- The year\n- The level (state, district, parlimen, or dun)\n- The metric (mean or median)\n\nExample: if asked \"median income johor 2022\", call the tool with:\n\"Johor state mean median household income 2022 hh_income_state\"\n\nRULES:\n1. Always cite the source file and year.\n2. If not found, say: 'I cannot find that information in the dataset.'\n3. Never invent figures.\n4. Format as RM followed by number (e.g. RM6,276).\n5. Always end with: 'Data source: DOSM | open.dosm.gov.my | CC BY 4.0'"
+        }
+      },
+      "id": "89eab251-a6b8-49a0-ac88-5e29f91b7b9c",
+      "name": "LLM Generation",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        224,
+        0
+      ],
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "model": "qwen/qwen3-32b",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+      "typeVersion": 1,
+      "position": [
+        192,
+        288
+      ],
+      "id": "21e6dc8c-53c9-4d7d-b639-f76df412b849",
+      "name": "Groq Chat Model",
+      "credentials": {
+        "groqApi": {
+          "id": "YfHuuubObUh4UdwX",
+          "name": "Groq account 2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const query = $input.first().json.query || '';\n\nconst states = ['Johor','Kedah','Kelantan','Melaka','Negeri Sembilan',\n  'Pahang','Perak','Perlis','Pulau Pinang','Sabah','Sarawak',\n  'Selangor','Terengganu','W.P. Kuala Lumpur','W.P. Labuan','W.P. Putrajaya'];\n\nconst yearMatch = query.match(/\\b(2019|2020|2022|2024)\\b/);\nconst year  = yearMatch ? yearMatch[1] : null;\nconst state = states.find(s => query.toLowerCase().includes(s.toLowerCase()));\n\n// Get embedding\nconst embedRes = await this.helpers.httpRequest({\n  method: 'POST',\n  url: 'http://localhost:11434/api/embeddings',\n  headers: { 'Content-Type': 'application/json' },\n  body: JSON.stringify({ model: 'nomic-embed-text', prompt: query })\n});\nconst embedding = embedRes.embedding;\n\n// Build filter — only add conditions we are sure about\nconst must = [];\nif (state) must.push({ key: \"metadata.state\", match: { value: state }});\nif (year)  must.push({ key: \"metadata.year\",  match: { value: year }});\n\n// Search Qdrant\nconst searchRes = await this.helpers.httpRequest({\n  method: 'POST',\n  url: 'http://localhost:6333/collections/hh_income/points/search',\n  headers: { 'Content-Type': 'application/json' },\n  body: JSON.stringify({\n    vector: embedding,\n    limit: 8,\n    with_payload: true,\n    filter: must.length > 0 ? { must } : undefined\n  })\n});\n\nconst context = searchRes.result.map((r, i) =>\n  `[${i+1}] ${r.payload.page_content}`\n).join('\\n\\n');\n\nreturn [{ json: { context, query, startTime: Date.now() } }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -48,
+        416
+      ],
+      "id": "c2b952a3-1050-4677-9300-dc3ae019de44",
+      "name": "Code in JavaScript1"
+    },
+    {
+      "parameters": {
+        "jsCode": "let answer = $input.first().json.answer || $input.first().json.output || $input.first().json.text || '';\n\n// Remove <think>...</think> blocks\nanswer = answer.replace(/<think>[\\s\\S]*?<\\/think>/gi, '').trim();\n\n// Remove \"Calling tool...\" lines\nanswer = answer.replace(/Calling tool.*?\\n/gi, '').trim();\n\n// Remove \"Calling tool\" lines that don't end in \\n\nanswer = answer.replace(/Calling tool[^\\n]*/gi, '').trim();\n\nreturn [{ json: { \n  answer, \n  query: $input.first().json.query || $('Intent Check').first().json.query || '',\n  latencyMs: Date.now() - ($input.first().json.startTime || Date.now()),\n  timestamp: new Date().toISOString()\n}}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        576,
+        0
+      ],
+      "id": "7505844c-3b49-4796-8572-4bbb06775058",
+      "name": "Code Formatter"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Intent Check": {
+      "main": [
+        [
+          {
+            "node": "Topic Guard",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Topic Guard": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Off-Topic Refusal",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Confidence Check": {
+      "main": [
+        [
+          {
+            "node": "Confidence Gate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Confidence Gate": {
+      "main": [
+        [
+          {
+            "node": "Final Answer",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Clarification Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Final Answer": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Query Logger": {
+      "main": [
+        [
+          {
+            "node": "Final Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "Query Logger",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Chat Trigger": {
+      "main": [
+        [
+          {
+            "node": "Intent Check",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM Generation": {
+      "main": [
+        [
+          {
+            "node": "Code Formatter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Groq Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "LLM Generation",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript1": {
+      "main": [
+        [
+          {
+            "node": "LLM Generation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code Formatter": {
+      "main": [
+        [
+          {
+            "node": "Confidence Check",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "15cf38fd-9aea-4165-9e91-bc48c4597fd8",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "64ef4e46e5eacd10c20a0a5474a3ce867f1185be4423dcf21408ceb7fedb655f"
+  },
+  "id": "5Scy3vVkYR1pDviu",
+  "tags": []
+}

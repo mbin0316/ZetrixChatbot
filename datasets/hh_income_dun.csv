@@ -1,0 +1,1801 @@
+date,state,parlimen,dun,income_median,income_mean
+2019-01-01,Perlis,P.001 Padang Besar,N.01 Titi Tinggi,4417,4662
+2022-01-01,Perlis,P.001 Padang Besar,N.01 Titi Tinggi,4206,4673
+2024-01-01,Perlis,P.001 Padang Besar,N.01 Titi Tinggi,4983,5404
+2019-01-01,Perlis,P.001 Padang Besar,N.02 Beseri,4066,4696
+2022-01-01,Perlis,P.001 Padang Besar,N.02 Beseri,4548,5347
+2024-01-01,Perlis,P.001 Padang Besar,N.02 Beseri,6232,5818
+2019-01-01,Perlis,P.001 Padang Besar,N.03 Chuping,4016,4681
+2022-01-01,Perlis,P.001 Padang Besar,N.03 Chuping,4324,4823
+2024-01-01,Perlis,P.001 Padang Besar,N.03 Chuping,4725,5269
+2019-01-01,Perlis,P.001 Padang Besar,N.04 Mata Ayer,4621,5352
+2022-01-01,Perlis,P.001 Padang Besar,N.04 Mata Ayer,4744,5460
+2024-01-01,Perlis,P.001 Padang Besar,N.04 Mata Ayer,4342,6356
+2019-01-01,Perlis,P.001 Padang Besar,N.05 Santan,4043,4801
+2022-01-01,Perlis,P.001 Padang Besar,N.05 Santan,4373,5035
+2024-01-01,Perlis,P.001 Padang Besar,N.05 Santan,4801,6424
+2019-01-01,Perlis,P.002 Kangar,N.06 Bintong,4547,5711
+2022-01-01,Perlis,P.002 Kangar,N.06 Bintong,5170,6093
+2024-01-01,Perlis,P.002 Kangar,N.06 Bintong,4926,5567
+2019-01-01,Perlis,P.002 Kangar,N.07 Sena,4920,6598
+2022-01-01,Perlis,P.002 Kangar,N.07 Sena,5456,6780
+2024-01-01,Perlis,P.002 Kangar,N.07 Sena,5868,7232
+2019-01-01,Perlis,P.002 Kangar,N.08 Indera Kayangan,5021,6042
+2022-01-01,Perlis,P.002 Kangar,N.08 Indera Kayangan,5808,7801
+2024-01-01,Perlis,P.002 Kangar,N.08 Indera Kayangan,5342,6856
+2019-01-01,Perlis,P.002 Kangar,N.09 Kuala Perlis,4062,5129
+2022-01-01,Perlis,P.002 Kangar,N.09 Kuala Perlis,4559,4991
+2024-01-01,Perlis,P.002 Kangar,N.09 Kuala Perlis,4564,5149
+2019-01-01,Perlis,P.002 Kangar,N.10 Kayang,6313,6357
+2022-01-01,Perlis,P.002 Kangar,N.10 Kayang,4455,5442
+2024-01-01,Perlis,P.002 Kangar,N.10 Kayang,5363,6369
+2019-01-01,Perlis,P.003 Arau,N.11 Pauh,4854,5805
+2022-01-01,Perlis,P.003 Arau,N.11 Pauh,5040,6483
+2024-01-01,Perlis,P.003 Arau,N.11 Pauh,5424,6518
+2019-01-01,Perlis,P.003 Arau,N.12 Tambun Tulang,4967,5670
+2022-01-01,Perlis,P.003 Arau,N.12 Tambun Tulang,5384,6309
+2024-01-01,Perlis,P.003 Arau,N.12 Tambun Tulang,6483,7072
+2019-01-01,Perlis,P.003 Arau,N.13 Guar Sanji,4082,4905
+2022-01-01,Perlis,P.003 Arau,N.13 Guar Sanji,4573,5064
+2024-01-01,Perlis,P.003 Arau,N.13 Guar Sanji,4809,5494
+2019-01-01,Perlis,P.003 Arau,N.14 Simpang Empat,3833,4450
+2022-01-01,Perlis,P.003 Arau,N.14 Simpang Empat,4140,4653
+2024-01-01,Perlis,P.003 Arau,N.14 Simpang Empat,3438,4398
+2019-01-01,Perlis,P.003 Arau,N.15 Sanglang,4195,4943
+2022-01-01,Perlis,P.003 Arau,N.15 Sanglang,4247,5102
+2024-01-01,Perlis,P.003 Arau,N.15 Sanglang,4188,4810
+2019-01-01,Kedah,P.004 Langkawi,N.01 Ayer Hangat,5743,6131
+2022-01-01,Kedah,P.004 Langkawi,N.01 Ayer Hangat,4968,5640
+2024-01-01,Kedah,P.004 Langkawi,N.01 Ayer Hangat,5016,5899
+2019-01-01,Kedah,P.004 Langkawi,N.02 Kuah,6602,7193
+2022-01-01,Kedah,P.004 Langkawi,N.02 Kuah,5483,6482
+2024-01-01,Kedah,P.004 Langkawi,N.02 Kuah,5169,6600
+2019-01-01,Kedah,P.005 Jerlun,N.03 Kota Siputeh,3961,4996
+2022-01-01,Kedah,P.005 Jerlun,N.03 Kota Siputeh,4502,5157
+2024-01-01,Kedah,P.005 Jerlun,N.03 Kota Siputeh,5025,5813
+2019-01-01,Kedah,P.005 Jerlun,N.04 Ayer Hitam,4276,4848
+2022-01-01,Kedah,P.005 Jerlun,N.04 Ayer Hitam,4414,4978
+2024-01-01,Kedah,P.005 Jerlun,N.04 Ayer Hitam,4704,5294
+2019-01-01,Kedah,P.006 Kubang Pasu,N.05 Bukit Kayu Hitam,4511,5710
+2022-01-01,Kedah,P.006 Kubang Pasu,N.05 Bukit Kayu Hitam,4703,5691
+2024-01-01,Kedah,P.006 Kubang Pasu,N.05 Bukit Kayu Hitam,4771,6117
+2019-01-01,Kedah,P.006 Kubang Pasu,N.06 Jitra,5468,7300
+2022-01-01,Kedah,P.006 Kubang Pasu,N.06 Jitra,5761,7076
+2024-01-01,Kedah,P.006 Kubang Pasu,N.06 Jitra,6067,6958
+2019-01-01,Kedah,P.007 Padang Terap,N.07 Kuala Nerang,4017,5255
+2022-01-01,Kedah,P.007 Padang Terap,N.07 Kuala Nerang,3969,5215
+2024-01-01,Kedah,P.007 Padang Terap,N.07 Kuala Nerang,4126,5389
+2019-01-01,Kedah,P.007 Padang Terap,N.08 Pedu,3501,4222
+2022-01-01,Kedah,P.007 Padang Terap,N.08 Pedu,3489,4275
+2024-01-01,Kedah,P.007 Padang Terap,N.08 Pedu,3881,4631
+2019-01-01,Kedah,P.008 Pokok Sena,N.09 Bukit Lada,4236,5004
+2022-01-01,Kedah,P.008 Pokok Sena,N.09 Bukit Lada,4583,5378
+2024-01-01,Kedah,P.008 Pokok Sena,N.09 Bukit Lada,5209,5780
+2019-01-01,Kedah,P.008 Pokok Sena,N.10 Bukit Pinang,4884,5945
+2022-01-01,Kedah,P.008 Pokok Sena,N.10 Bukit Pinang,4752,5860
+2024-01-01,Kedah,P.008 Pokok Sena,N.10 Bukit Pinang,5840,7151
+2019-01-01,Kedah,P.008 Pokok Sena,N.11 Derga,4420,5704
+2022-01-01,Kedah,P.008 Pokok Sena,N.11 Derga,5030,6998
+2024-01-01,Kedah,P.008 Pokok Sena,N.11 Derga,5049,5976
+2019-01-01,Kedah,P.009 Alor Setar,N.12 Suka Menanti,4494,5531
+2022-01-01,Kedah,P.009 Alor Setar,N.12 Suka Menanti,4600,5323
+2024-01-01,Kedah,P.009 Alor Setar,N.12 Suka Menanti,4988,5799
+2019-01-01,Kedah,P.009 Alor Setar,N.13 Kota Darul Aman,5773,4532
+2022-01-01,Kedah,P.009 Alor Setar,N.13 Kota Darul Aman,4030,7229
+2024-01-01,Kedah,P.009 Alor Setar,N.13 Kota Darul Aman,3583,4279
+2019-01-01,Kedah,P.009 Alor Setar,N.14 Alor Mengkudu,4899,5830
+2022-01-01,Kedah,P.009 Alor Setar,N.14 Alor Mengkudu,5157,5594
+2024-01-01,Kedah,P.009 Alor Setar,N.14 Alor Mengkudu,5010,5801
+2019-01-01,Kedah,P.010 Kuala Kedah,N.15 Anak Bukit,4419,6486
+2022-01-01,Kedah,P.010 Kuala Kedah,N.15 Anak Bukit,4640,6125
+2024-01-01,Kedah,P.010 Kuala Kedah,N.15 Anak Bukit,5537,6638
+2019-01-01,Kedah,P.010 Kuala Kedah,N.16 Kubang Rotan,4096,5128
+2022-01-01,Kedah,P.010 Kuala Kedah,N.16 Kubang Rotan,4754,5955
+2024-01-01,Kedah,P.010 Kuala Kedah,N.16 Kubang Rotan,4807,5648
+2019-01-01,Kedah,P.010 Kuala Kedah,N.17 Pengkalan Kundor,4805,6163
+2022-01-01,Kedah,P.010 Kuala Kedah,N.17 Pengkalan Kundor,4592,5682
+2024-01-01,Kedah,P.010 Kuala Kedah,N.17 Pengkalan Kundor,5221,5972
+2019-01-01,Kedah,P.011 Pendang,N.18 Tokai,4277,5200
+2022-01-01,Kedah,P.011 Pendang,N.18 Tokai,4313,5850
+2024-01-01,Kedah,P.011 Pendang,N.18 Tokai,4935,6023
+2019-01-01,Kedah,P.011 Pendang,N.19 Sungai Tiang,3235,4051
+2022-01-01,Kedah,P.011 Pendang,N.19 Sungai Tiang,3710,4388
+2024-01-01,Kedah,P.011 Pendang,N.19 Sungai Tiang,3768,4819
+2019-01-01,Kedah,P.012 Jerai,N.20 Sungai Limau,3565,4411
+2022-01-01,Kedah,P.012 Jerai,N.20 Sungai Limau,4227,4946
+2024-01-01,Kedah,P.012 Jerai,N.20 Sungai Limau,4695,4870
+2019-01-01,Kedah,P.012 Jerai,N.21 Guar Chempedak,3502,4390
+2022-01-01,Kedah,P.012 Jerai,N.21 Guar Chempedak,3858,4379
+2024-01-01,Kedah,P.012 Jerai,N.21 Guar Chempedak,4666,5612
+2019-01-01,Kedah,P.012 Jerai,N.22 Gurun,2978,4411
+2022-01-01,Kedah,P.012 Jerai,N.22 Gurun,3188,4042
+2024-01-01,Kedah,P.012 Jerai,N.22 Gurun,4953,5673
+2019-01-01,Kedah,P.013 Sik,N.23 Belantek,3682,4615
+2022-01-01,Kedah,P.013 Sik,N.23 Belantek,3515,4454
+2024-01-01,Kedah,P.013 Sik,N.23 Belantek,3899,4653
+2019-01-01,Kedah,P.013 Sik,N.24 Jeneri,4301,5271
+2022-01-01,Kedah,P.013 Sik,N.24 Jeneri,4560,5608
+2024-01-01,Kedah,P.013 Sik,N.24 Jeneri,4479,5506
+2019-01-01,Kedah,P.014 Merbok,N.25 Bukit Selambau,5149,6804
+2022-01-01,Kedah,P.014 Merbok,N.25 Bukit Selambau,4897,7541
+2024-01-01,Kedah,P.014 Merbok,N.25 Bukit Selambau,5253,6702
+2019-01-01,Kedah,P.014 Merbok,N.26 Tanjong Dawai,3501,4460
+2022-01-01,Kedah,P.014 Merbok,N.26 Tanjong Dawai,3716,4282
+2024-01-01,Kedah,P.014 Merbok,N.26 Tanjong Dawai,4232,4864
+2019-01-01,Kedah,P.015 Sungai Petani,N.27 Pantai Merdeka,3795,4442
+2022-01-01,Kedah,P.015 Sungai Petani,N.27 Pantai Merdeka,3609,4096
+2024-01-01,Kedah,P.015 Sungai Petani,N.27 Pantai Merdeka,4187,4619
+2019-01-01,Kedah,P.015 Sungai Petani,N.28 Bakar Arang,5092,6644
+2022-01-01,Kedah,P.015 Sungai Petani,N.28 Bakar Arang,4172,4736
+2024-01-01,Kedah,P.015 Sungai Petani,N.28 Bakar Arang,4982,5504
+2019-01-01,Kedah,P.015 Sungai Petani,N.29 Sidam,4305,5628
+2022-01-01,Kedah,P.015 Sungai Petani,N.29 Sidam,4679,6064
+2024-01-01,Kedah,P.015 Sungai Petani,N.29 Sidam,5246,5903
+2019-01-01,Kedah,P.016 Baling,N.30 Bayu,3527,4342
+2022-01-01,Kedah,P.016 Baling,N.30 Bayu,3334,3966
+2024-01-01,Kedah,P.016 Baling,N.30 Bayu,3549,4546
+2019-01-01,Kedah,P.016 Baling,N.31 Kupang,3899,4477
+2022-01-01,Kedah,P.016 Baling,N.31 Kupang,3568,4393
+2024-01-01,Kedah,P.016 Baling,N.31 Kupang,3264,4178
+2019-01-01,Kedah,P.016 Baling,N.32 Kuala Ketil,3444,4149
+2022-01-01,Kedah,P.016 Baling,N.32 Kuala Ketil,3327,4397
+2024-01-01,Kedah,P.016 Baling,N.32 Kuala Ketil,3372,4294
+2019-01-01,Kedah,P.017 Padang Serai,N.33 Merbau Pulas,4252,5100
+2022-01-01,Kedah,P.017 Padang Serai,N.33 Merbau Pulas,4537,5907
+2024-01-01,Kedah,P.017 Padang Serai,N.33 Merbau Pulas,5936,7290
+2019-01-01,Kedah,P.017 Padang Serai,N.34 Lunas,4431,5423
+2022-01-01,Kedah,P.017 Padang Serai,N.34 Lunas,4921,5886
+2024-01-01,Kedah,P.017 Padang Serai,N.34 Lunas,5091,6160
+2019-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.35 Kulim,4999,6126
+2022-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.35 Kulim,4023,5010
+2024-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.35 Kulim,4692,5663
+2019-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.36 Bandar Baharu,4022,4959
+2022-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.36 Bandar Baharu,3922,4565
+2024-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.36 Bandar Baharu,4310,4835
+2019-01-01,Kelantan,P.019 Tumpat,N.01 Pengkalan Kubor,2815,3453
+2022-01-01,Kelantan,P.019 Tumpat,N.01 Pengkalan Kubor,3342,4069
+2024-01-01,Kelantan,P.019 Tumpat,N.01 Pengkalan Kubor,3234,4516
+2019-01-01,Kelantan,P.019 Tumpat,N.02 Kelaboran,3108,3956
+2022-01-01,Kelantan,P.019 Tumpat,N.02 Kelaboran,3533,4698
+2024-01-01,Kelantan,P.019 Tumpat,N.02 Kelaboran,3662,4533
+2019-01-01,Kelantan,P.019 Tumpat,N.03 Pasir Pekan,3789,5506
+2022-01-01,Kelantan,P.019 Tumpat,N.03 Pasir Pekan,4377,5175
+2024-01-01,Kelantan,P.019 Tumpat,N.03 Pasir Pekan,5122,5939
+2019-01-01,Kelantan,P.019 Tumpat,N.04 Wakaf Bharu,4688,6309
+2022-01-01,Kelantan,P.019 Tumpat,N.04 Wakaf Bharu,4164,4974
+2024-01-01,Kelantan,P.019 Tumpat,N.04 Wakaf Bharu,4035,4877
+2019-01-01,Kelantan,P.020 Pengkalan Chepa,N.05 Kijang,3595,4363
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,N.05 Kijang,3616,5208
+2024-01-01,Kelantan,P.020 Pengkalan Chepa,N.05 Kijang,4224,5128
+2019-01-01,Kelantan,P.020 Pengkalan Chepa,N.06 Chempaka,4343,5383
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,N.06 Chempaka,4504,6125
+2024-01-01,Kelantan,P.020 Pengkalan Chepa,N.06 Chempaka,5149,6732
+2019-01-01,Kelantan,P.020 Pengkalan Chepa,N.07 Panchor,4670,5979
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,N.07 Panchor,4452,5601
+2024-01-01,Kelantan,P.020 Pengkalan Chepa,N.07 Panchor,5049,6499
+2019-01-01,Kelantan,P.021 Kota Bharu,N.08 Tanjong Mas,3950,5095
+2022-01-01,Kelantan,P.021 Kota Bharu,N.08 Tanjong Mas,4383,5250
+2024-01-01,Kelantan,P.021 Kota Bharu,N.08 Tanjong Mas,4729,6713
+2019-01-01,Kelantan,P.021 Kota Bharu,N.09 Kota Lama,4251,5465
+2022-01-01,Kelantan,P.021 Kota Bharu,N.09 Kota Lama,4146,4849
+2024-01-01,Kelantan,P.021 Kota Bharu,N.09 Kota Lama,4439,5356
+2019-01-01,Kelantan,P.021 Kota Bharu,N.10 Bunut Payong,4272,5203
+2022-01-01,Kelantan,P.021 Kota Bharu,N.10 Bunut Payong,4302,5787
+2024-01-01,Kelantan,P.021 Kota Bharu,N.10 Bunut Payong,5469,6762
+2019-01-01,Kelantan,P.022 Pasir Mas,N.11 Tendong,3783,5273
+2022-01-01,Kelantan,P.022 Pasir Mas,N.11 Tendong,3248,4557
+2024-01-01,Kelantan,P.022 Pasir Mas,N.11 Tendong,4358,5746
+2019-01-01,Kelantan,P.022 Pasir Mas,N.12 Pengkalan Pasir,4217,6038
+2022-01-01,Kelantan,P.022 Pasir Mas,N.12 Pengkalan Pasir,3548,5057
+2024-01-01,Kelantan,P.022 Pasir Mas,N.12 Pengkalan Pasir,4822,6386
+2019-01-01,Kelantan,P.022 Pasir Mas,N.13 Meranti,3561,5115
+2022-01-01,Kelantan,P.022 Pasir Mas,N.13 Meranti,3609,4256
+2024-01-01,Kelantan,P.022 Pasir Mas,N.13 Meranti,3096,4649
+2019-01-01,Kelantan,P.023 Rantau Panjang,N.14 Chetok,3219,4396
+2022-01-01,Kelantan,P.023 Rantau Panjang,N.14 Chetok,3427,4860
+2024-01-01,Kelantan,P.023 Rantau Panjang,N.14 Chetok,3535,4505
+2019-01-01,Kelantan,P.023 Rantau Panjang,N.15 Gual Periok,2920,3527
+2022-01-01,Kelantan,P.023 Rantau Panjang,N.15 Gual Periok,3671,4384
+2024-01-01,Kelantan,P.023 Rantau Panjang,N.15 Gual Periok,3197,3928
+2019-01-01,Kelantan,P.023 Rantau Panjang,N.16 Apam Putra,3039,3941
+2022-01-01,Kelantan,P.023 Rantau Panjang,N.16 Apam Putra,3219,4593
+2024-01-01,Kelantan,P.023 Rantau Panjang,N.16 Apam Putra,3792,5160
+2019-01-01,Kelantan,P.024 Kubang Kerian,N.17 Salor,4087,5178
+2022-01-01,Kelantan,P.024 Kubang Kerian,N.17 Salor,3350,4674
+2024-01-01,Kelantan,P.024 Kubang Kerian,N.17 Salor,4202,5754
+2019-01-01,Kelantan,P.024 Kubang Kerian,N.18 Pasir Tumboh,4421,6531
+2022-01-01,Kelantan,P.024 Kubang Kerian,N.18 Pasir Tumboh,4912,6155
+2024-01-01,Kelantan,P.024 Kubang Kerian,N.18 Pasir Tumboh,4758,6749
+2019-01-01,Kelantan,P.024 Kubang Kerian,N.19 Demit,4420,6351
+2022-01-01,Kelantan,P.024 Kubang Kerian,N.19 Demit,5160,7782
+2024-01-01,Kelantan,P.024 Kubang Kerian,N.19 Demit,4803,5949
+2019-01-01,Kelantan,P.025 Bachok,N.20 Tawang,3938,4898
+2022-01-01,Kelantan,P.025 Bachok,N.20 Tawang,3839,5060
+2024-01-01,Kelantan,P.025 Bachok,N.20 Tawang,4150,4864
+2019-01-01,Kelantan,P.025 Bachok,N.21 Pantai Irama,3417,4558
+2022-01-01,Kelantan,P.025 Bachok,N.21 Pantai Irama,3646,5010
+2024-01-01,Kelantan,P.025 Bachok,N.21 Pantai Irama,4294,4989
+2019-01-01,Kelantan,P.025 Bachok,N.22 Jelawat,3712,4828
+2022-01-01,Kelantan,P.025 Bachok,N.22 Jelawat,3477,4142
+2024-01-01,Kelantan,P.025 Bachok,N.22 Jelawat,3725,5620
+2019-01-01,Kelantan,P.026 Ketereh,N.23 Melor,3612,5268
+2022-01-01,Kelantan,P.026 Ketereh,N.23 Melor,4160,5685
+2024-01-01,Kelantan,P.026 Ketereh,N.23 Melor,4801,6158
+2019-01-01,Kelantan,P.026 Ketereh,N.24 Kadok,4210,6151
+2022-01-01,Kelantan,P.026 Ketereh,N.24 Kadok,3883,5218
+2024-01-01,Kelantan,P.026 Ketereh,N.24 Kadok,5475,7001
+2019-01-01,Kelantan,P.026 Ketereh,N.25 Kok Lanas,4325,5621
+2022-01-01,Kelantan,P.026 Ketereh,N.25 Kok Lanas,3672,4734
+2024-01-01,Kelantan,P.026 Ketereh,N.25 Kok Lanas,3937,4788
+2019-01-01,Kelantan,P.027 Tanah Merah,N.26 Bukit Panau,3740,5088
+2022-01-01,Kelantan,P.027 Tanah Merah,N.26 Bukit Panau,3228,4643
+2024-01-01,Kelantan,P.027 Tanah Merah,N.26 Bukit Panau,4380,6156
+2019-01-01,Kelantan,P.027 Tanah Merah,N.27 Gual Ipoh,2430,2710
+2022-01-01,Kelantan,P.027 Tanah Merah,N.27 Gual Ipoh,2496,2866
+2024-01-01,Kelantan,P.027 Tanah Merah,N.27 Gual Ipoh,3014,3605
+2019-01-01,Kelantan,P.027 Tanah Merah,N.28 Kemahang,3630,4136
+2022-01-01,Kelantan,P.027 Tanah Merah,N.28 Kemahang,3480,4310
+2024-01-01,Kelantan,P.027 Tanah Merah,N.28 Kemahang,2996,3668
+2019-01-01,Kelantan,P.028 Pasir Puteh,N.29 Selising,3530,4713
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.29 Selising,3779,4509
+2024-01-01,Kelantan,P.028 Pasir Puteh,N.29 Selising,4433,4514
+2019-01-01,Kelantan,P.028 Pasir Puteh,N.30 Limbongan,3781,5447
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.30 Limbongan,4065,5584
+2024-01-01,Kelantan,P.028 Pasir Puteh,N.30 Limbongan,5120,5475
+2019-01-01,Kelantan,P.028 Pasir Puteh,N.31 Semerak,2683,3730
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.31 Semerak,3346,3971
+2024-01-01,Kelantan,P.028 Pasir Puteh,N.31 Semerak,4169,4684
+2019-01-01,Kelantan,P.028 Pasir Puteh,N.32 Gaal,3344,4011
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.32 Gaal,2754,4217
+2024-01-01,Kelantan,P.028 Pasir Puteh,N.32 Gaal,4873,5328
+2019-01-01,Kelantan,P.029 Machang,N.33 Pulai Chondong,3516,4474
+2022-01-01,Kelantan,P.029 Machang,N.33 Pulai Chondong,2944,4015
+2024-01-01,Kelantan,P.029 Machang,N.33 Pulai Chondong,4088,4903
+2019-01-01,Kelantan,P.029 Machang,N.34 Temangan,3077,3829
+2022-01-01,Kelantan,P.029 Machang,N.34 Temangan,3338,4629
+2024-01-01,Kelantan,P.029 Machang,N.34 Temangan,4045,4993
+2019-01-01,Kelantan,P.029 Machang,N.35 Kemuning,4039,5496
+2022-01-01,Kelantan,P.029 Machang,N.35 Kemuning,3821,5545
+2024-01-01,Kelantan,P.029 Machang,N.35 Kemuning,4323,5659
+2019-01-01,Kelantan,P.030 Jeli,N.36 Bukit Bunga,2561,3469
+2022-01-01,Kelantan,P.030 Jeli,N.36 Bukit Bunga,2867,3637
+2024-01-01,Kelantan,P.030 Jeli,N.36 Bukit Bunga,3484,4723
+2019-01-01,Kelantan,P.030 Jeli,N.37 Air Lanas,3080,4105
+2022-01-01,Kelantan,P.030 Jeli,N.37 Air Lanas,2605,4070
+2024-01-01,Kelantan,P.030 Jeli,N.37 Air Lanas,2824,3617
+2019-01-01,Kelantan,P.030 Jeli,N.38 Kuala Balah,2760,3519
+2022-01-01,Kelantan,P.030 Jeli,N.38 Kuala Balah,3326,3633
+2024-01-01,Kelantan,P.030 Jeli,N.38 Kuala Balah,3146,4012
+2019-01-01,Kelantan,P.031 Kuala Krai,N.39 Mengkebang,3195,4107
+2022-01-01,Kelantan,P.031 Kuala Krai,N.39 Mengkebang,2695,3848
+2024-01-01,Kelantan,P.031 Kuala Krai,N.39 Mengkebang,2942,3758
+2019-01-01,Kelantan,P.031 Kuala Krai,N.40 Guchil,3491,4843
+2022-01-01,Kelantan,P.031 Kuala Krai,N.40 Guchil,3581,4747
+2024-01-01,Kelantan,P.031 Kuala Krai,N.40 Guchil,3791,4893
+2019-01-01,Kelantan,P.031 Kuala Krai,N.41 Manek Urai,2499,3061
+2022-01-01,Kelantan,P.031 Kuala Krai,N.41 Manek Urai,2713,3439
+2024-01-01,Kelantan,P.031 Kuala Krai,N.41 Manek Urai,2806,3033
+2019-01-01,Kelantan,P.031 Kuala Krai,N.42 Dabong,2180,2777
+2022-01-01,Kelantan,P.031 Kuala Krai,N.42 Dabong,1648,2427
+2024-01-01,Kelantan,P.031 Kuala Krai,N.42 Dabong,3080,3161
+2019-01-01,Kelantan,P.032 Gua Musang,N.43 Nenggiri,2069,2419
+2022-01-01,Kelantan,P.032 Gua Musang,N.43 Nenggiri,2972,3834
+2024-01-01,Kelantan,P.032 Gua Musang,N.43 Nenggiri,3308,3731
+2019-01-01,Kelantan,P.032 Gua Musang,N.44 Paloh,2867,3871
+2022-01-01,Kelantan,P.032 Gua Musang,N.44 Paloh,3901,5013
+2024-01-01,Kelantan,P.032 Gua Musang,N.44 Paloh,4169,5175
+2019-01-01,Kelantan,P.032 Gua Musang,N.45 Galas,3328,4311
+2022-01-01,Kelantan,P.032 Gua Musang,N.45 Galas,3176,4195
+2024-01-01,Kelantan,P.032 Gua Musang,N.45 Galas,4028,4571
+2019-01-01,Terengganu,P.033 Besut,N.01 Kuala Besut,4662,6136
+2022-01-01,Terengganu,P.033 Besut,N.01 Kuala Besut,4152,5259
+2024-01-01,Terengganu,P.033 Besut,N.01 Kuala Besut,3959,4805
+2019-01-01,Terengganu,P.033 Besut,N.02 Kota Putera,4609,6357
+2022-01-01,Terengganu,P.033 Besut,N.02 Kota Putera,5837,7798
+2024-01-01,Terengganu,P.033 Besut,N.02 Kota Putera,5441,7600
+2019-01-01,Terengganu,P.033 Besut,N.03 Jertih,4526,5857
+2022-01-01,Terengganu,P.033 Besut,N.03 Jertih,4535,6080
+2024-01-01,Terengganu,P.033 Besut,N.03 Jertih,6550,7388
+2019-01-01,Terengganu,P.033 Besut,N.04 Hulu Besut,4595,5594
+2022-01-01,Terengganu,P.033 Besut,N.04 Hulu Besut,4379,5583
+2024-01-01,Terengganu,P.033 Besut,N.04 Hulu Besut,6373,6367
+2019-01-01,Terengganu,P.034 Setiu,N.05 Jabi,4313,4563
+2022-01-01,Terengganu,P.034 Setiu,N.05 Jabi,4520,5859
+2024-01-01,Terengganu,P.034 Setiu,N.05 Jabi,5980,6767
+2019-01-01,Terengganu,P.034 Setiu,N.06 Permaisuri,4099,5586
+2022-01-01,Terengganu,P.034 Setiu,N.06 Permaisuri,4951,5931
+2024-01-01,Terengganu,P.034 Setiu,N.06 Permaisuri,6062,6267
+2019-01-01,Terengganu,P.034 Setiu,N.07 Langkap,4403,5624
+2022-01-01,Terengganu,P.034 Setiu,N.07 Langkap,5273,6134
+2024-01-01,Terengganu,P.034 Setiu,N.07 Langkap,6137,6507
+2019-01-01,Terengganu,P.034 Setiu,N.08 Batu Rakit,4943,6137
+2022-01-01,Terengganu,P.034 Setiu,N.08 Batu Rakit,7055,8306
+2024-01-01,Terengganu,P.034 Setiu,N.08 Batu Rakit,8378,9426
+2019-01-01,Terengganu,P.035 Kuala Nerus,N.09 Tepuh,7336,8166
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.09 Tepuh,6765,8175
+2024-01-01,Terengganu,P.035 Kuala Nerus,N.09 Tepuh,7409,8127
+2019-01-01,Terengganu,P.035 Kuala Nerus,N.10 Buluh Gading,5004,6503
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.10 Buluh Gading,5924,6974
+2024-01-01,Terengganu,P.035 Kuala Nerus,N.10 Buluh Gading,6379,6567
+2019-01-01,Terengganu,P.035 Kuala Nerus,N.11 Seberang Takir,6917,8073
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.11 Seberang Takir,6192,7324
+2024-01-01,Terengganu,P.035 Kuala Nerus,N.11 Seberang Takir,7461,8937
+2019-01-01,Terengganu,P.035 Kuala Nerus,N.12 Bukit Tunggal,6537,7231
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.12 Bukit Tunggal,6800,7737
+2024-01-01,Terengganu,P.035 Kuala Nerus,N.12 Bukit Tunggal,5260,5966
+2019-01-01,Terengganu,P.036 Kuala Terengganu,N.13 Wakaf Mempelam,6293,7228
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.13 Wakaf Mempelam,6399,8811
+2024-01-01,Terengganu,P.036 Kuala Terengganu,N.13 Wakaf Mempelam,7408,8829
+2019-01-01,Terengganu,P.036 Kuala Terengganu,N.14 Bandar,5198,5881
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.14 Bandar,5510,6313
+2024-01-01,Terengganu,P.036 Kuala Terengganu,N.14 Bandar,5955,6227
+2019-01-01,Terengganu,P.036 Kuala Terengganu,N.15 Ladang,5560,6489
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.15 Ladang,5337,6875
+2024-01-01,Terengganu,P.036 Kuala Terengganu,N.15 Ladang,5493,6271
+2019-01-01,Terengganu,P.036 Kuala Terengganu,N.16 Batu Buruk,5537,6689
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.16 Batu Buruk,5939,7228
+2024-01-01,Terengganu,P.036 Kuala Terengganu,N.16 Batu Buruk,6969,7804
+2019-01-01,Terengganu,P.037 Marang,N.17 Alur Limbat,6377,7595
+2022-01-01,Terengganu,P.037 Marang,N.17 Alur Limbat,5931,6736
+2024-01-01,Terengganu,P.037 Marang,N.17 Alur Limbat,6693,7081
+2019-01-01,Terengganu,P.037 Marang,N.18 Bukit Payung,5253,6252
+2022-01-01,Terengganu,P.037 Marang,N.18 Bukit Payung,5476,6876
+2024-01-01,Terengganu,P.037 Marang,N.18 Bukit Payung,6825,7492
+2019-01-01,Terengganu,P.037 Marang,N.19 Ru Rendang,5210,5989
+2022-01-01,Terengganu,P.037 Marang,N.19 Ru Rendang,5520,6303
+2024-01-01,Terengganu,P.037 Marang,N.19 Ru Rendang,6321,7132
+2019-01-01,Terengganu,P.037 Marang,N.20 Pengkalan Berangan,4627,5306
+2022-01-01,Terengganu,P.037 Marang,N.20 Pengkalan Berangan,5035,5996
+2024-01-01,Terengganu,P.037 Marang,N.20 Pengkalan Berangan,5908,6426
+2019-01-01,Terengganu,P.038 Hulu Terengganu,N.21 Telemung,4247,4916
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.21 Telemung,4742,5422
+2024-01-01,Terengganu,P.038 Hulu Terengganu,N.21 Telemung,4418,4605
+2019-01-01,Terengganu,P.038 Hulu Terengganu,N.22 Manir,5350,6518
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.22 Manir,5793,6991
+2024-01-01,Terengganu,P.038 Hulu Terengganu,N.22 Manir,6127,6603
+2019-01-01,Terengganu,P.038 Hulu Terengganu,N.23 Kuala Berang,4119,5577
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.23 Kuala Berang,5580,6484
+2024-01-01,Terengganu,P.038 Hulu Terengganu,N.23 Kuala Berang,7054,7782
+2019-01-01,Terengganu,P.038 Hulu Terengganu,N.24 Ajil,5395,5708
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.24 Ajil,5315,5672
+2024-01-01,Terengganu,P.038 Hulu Terengganu,N.24 Ajil,6564,6787
+2019-01-01,Terengganu,P.039 Dungun,N.25 Bukit Besi,4357,4891
+2022-01-01,Terengganu,P.039 Dungun,N.25 Bukit Besi,5591,6060
+2024-01-01,Terengganu,P.039 Dungun,N.25 Bukit Besi,5902,6058
+2019-01-01,Terengganu,P.039 Dungun,N.26 Rantau Abang,5692,7296
+2022-01-01,Terengganu,P.039 Dungun,N.26 Rantau Abang,6204,8109
+2024-01-01,Terengganu,P.039 Dungun,N.26 Rantau Abang,6138,6859
+2019-01-01,Terengganu,P.039 Dungun,N.27 Sura,7852,8731
+2022-01-01,Terengganu,P.039 Dungun,N.27 Sura,6517,8412
+2024-01-01,Terengganu,P.039 Dungun,N.27 Sura,7456,9220
+2019-01-01,Terengganu,P.039 Dungun,N.28 Paka,5774,7452
+2022-01-01,Terengganu,P.039 Dungun,N.28 Paka,6833,8152
+2024-01-01,Terengganu,P.039 Dungun,N.28 Paka,7896,8863
+2019-01-01,Terengganu,P.040 Kemaman,N.29 Kemasik,7018,10913
+2022-01-01,Terengganu,P.040 Kemaman,N.29 Kemasik,6717,10512
+2024-01-01,Terengganu,P.040 Kemaman,N.29 Kemasik,8029,10520
+2019-01-01,Terengganu,P.040 Kemaman,N.30 Kijal,6997,7908
+2022-01-01,Terengganu,P.040 Kemaman,N.30 Kijal,5546,7026
+2024-01-01,Terengganu,P.040 Kemaman,N.30 Kijal,7656,8180
+2019-01-01,Terengganu,P.040 Kemaman,N.31 Cukai,6592,7036
+2022-01-01,Terengganu,P.040 Kemaman,N.31 Cukai,6614,8631
+2024-01-01,Terengganu,P.040 Kemaman,N.31 Cukai,7356,9008
+2019-01-01,Terengganu,P.040 Kemaman,N.32 Air Putih,6255,6806
+2022-01-01,Terengganu,P.040 Kemaman,N.32 Air Putih,6676,7952
+2024-01-01,Terengganu,P.040 Kemaman,N.32 Air Putih,7744,8414
+2019-01-01,Pulau Pinang,P.041 Kepala Batas,N.01 Penaga,5512,5876
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,N.01 Penaga,4949,5519
+2024-01-01,Pulau Pinang,P.041 Kepala Batas,N.01 Penaga,6048,6907
+2019-01-01,Pulau Pinang,P.041 Kepala Batas,N.02 Bertam,5704,6237
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,N.02 Bertam,5232,6141
+2024-01-01,Pulau Pinang,P.041 Kepala Batas,N.02 Bertam,7393,8051
+2019-01-01,Pulau Pinang,P.041 Kepala Batas,N.03 Pinang Tunggal,5625,7036
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,N.03 Pinang Tunggal,6123,7408
+2024-01-01,Pulau Pinang,P.041 Kepala Batas,N.03 Pinang Tunggal,6537,7713
+2019-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.04 Permatang Berangan,6079,6505
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.04 Permatang Berangan,6324,6683
+2024-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.04 Permatang Berangan,6174,7331
+2019-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.05 Sungai Dua,5644,6225
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.05 Sungai Dua,6103,7308
+2024-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.05 Sungai Dua,6062,6908
+2019-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.06 Telok Ayer Tawar,5336,6635
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.06 Telok Ayer Tawar,7312,9618
+2024-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.06 Telok Ayer Tawar,6188,8662
+2019-01-01,Pulau Pinang,P.043 Bagan,N.07 Sungai Puyu,5901,6843
+2022-01-01,Pulau Pinang,P.043 Bagan,N.07 Sungai Puyu,6626,7856
+2024-01-01,Pulau Pinang,P.043 Bagan,N.07 Sungai Puyu,7091,8761
+2019-01-01,Pulau Pinang,P.043 Bagan,N.08 Bagan Jermal,4855,8084
+2022-01-01,Pulau Pinang,P.043 Bagan,N.08 Bagan Jermal,6232,7592
+2024-01-01,Pulau Pinang,P.043 Bagan,N.08 Bagan Jermal,8111,9338
+2019-01-01,Pulau Pinang,P.043 Bagan,N.09 Bagan Dalam,5578,8245
+2022-01-01,Pulau Pinang,P.043 Bagan,N.09 Bagan Dalam,6305,7815
+2024-01-01,Pulau Pinang,P.043 Bagan,N.09 Bagan Dalam,7138,9407
+2019-01-01,Pulau Pinang,P.044 Permatang Pauh,N.10 Seberang Jaya,5528,6822
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,N.10 Seberang Jaya,6499,8308
+2024-01-01,Pulau Pinang,P.044 Permatang Pauh,N.10 Seberang Jaya,6630,8018
+2019-01-01,Pulau Pinang,P.044 Permatang Pauh,N.11 Permatang Pasir,3653,5412
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,N.11 Permatang Pasir,4963,6168
+2024-01-01,Pulau Pinang,P.044 Permatang Pauh,N.11 Permatang Pasir,6530,7821
+2019-01-01,Pulau Pinang,P.044 Permatang Pauh,N.12 Penanti,5079,6100
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,N.12 Penanti,4515,5727
+2024-01-01,Pulau Pinang,P.044 Permatang Pauh,N.12 Penanti,5144,6113
+2019-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.13 Berapit,6997,9474
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.13 Berapit,7594,9349
+2024-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.13 Berapit,7891,9582
+2019-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.14 Machang Bubuk,5704,7074
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.14 Machang Bubuk,5861,7632
+2024-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.14 Machang Bubuk,7072,8901
+2019-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.15 Padang Lalang,6380,8178
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.15 Padang Lalang,6963,8382
+2024-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.15 Padang Lalang,6656,7710
+2019-01-01,Pulau Pinang,P.046 Batu Kawan,N.16 Perai,5542,7751
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,N.16 Perai,5866,8612
+2024-01-01,Pulau Pinang,P.046 Batu Kawan,N.16 Perai,8318,9405
+2019-01-01,Pulau Pinang,P.046 Batu Kawan,N.17 Bukit Tengah,6239,8140
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,N.17 Bukit Tengah,7627,9295
+2024-01-01,Pulau Pinang,P.046 Batu Kawan,N.17 Bukit Tengah,6427,7867
+2019-01-01,Pulau Pinang,P.046 Batu Kawan,N.18 Bukit Tambun,6153,7278
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,N.18 Bukit Tambun,6402,8452
+2024-01-01,Pulau Pinang,P.046 Batu Kawan,N.18 Bukit Tambun,7003,10027
+2019-01-01,Pulau Pinang,P.047 Nibong Tebal,N.19 Jawi,5486,6292
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,N.19 Jawi,5823,7362
+2024-01-01,Pulau Pinang,P.047 Nibong Tebal,N.19 Jawi,6872,8341
+2019-01-01,Pulau Pinang,P.047 Nibong Tebal,N.20 Sungai Bakap,5416,6273
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,N.20 Sungai Bakap,5868,7007
+2024-01-01,Pulau Pinang,P.047 Nibong Tebal,N.20 Sungai Bakap,7041,7316
+2019-01-01,Pulau Pinang,P.047 Nibong Tebal,N.21 Sungai Acheh,6702,7611
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,N.21 Sungai Acheh,5938,6608
+2024-01-01,Pulau Pinang,P.047 Nibong Tebal,N.21 Sungai Acheh,5439,6344
+2019-01-01,Pulau Pinang,P.048 Bukit Bendera,N.22 Tanjong Bunga,7228,8845
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.22 Tanjong Bunga,8550,11720
+2024-01-01,Pulau Pinang,P.048 Bukit Bendera,N.22 Tanjong Bunga,9670,11971
+2019-01-01,Pulau Pinang,P.048 Bukit Bendera,N.23 Air Putih,8183,9475
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.23 Air Putih,8406,10506
+2024-01-01,Pulau Pinang,P.048 Bukit Bendera,N.23 Air Putih,8092,8717
+2019-01-01,Pulau Pinang,P.048 Bukit Bendera,N.24 Kebun Bunga,4768,6452
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.24 Kebun Bunga,6053,9237
+2024-01-01,Pulau Pinang,P.048 Bukit Bendera,N.24 Kebun Bunga,6132,12731
+2019-01-01,Pulau Pinang,P.048 Bukit Bendera,N.25 Pulau Tikus,9583,13850
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.25 Pulau Tikus,8875,13244
+2024-01-01,Pulau Pinang,P.048 Bukit Bendera,N.25 Pulau Tikus,10532,16963
+2019-01-01,Pulau Pinang,P.049 Tanjong,N.26 Padang Kota,6081,6957
+2022-01-01,Pulau Pinang,P.049 Tanjong,N.26 Padang Kota,4997,6160
+2024-01-01,Pulau Pinang,P.049 Tanjong,N.26 Padang Kota,7487,13055
+2019-01-01,Pulau Pinang,P.049 Tanjong,N.27 Pengkalan Kota,5484,7084
+2022-01-01,Pulau Pinang,P.049 Tanjong,N.27 Pengkalan Kota,4814,5227
+2024-01-01,Pulau Pinang,P.049 Tanjong,N.27 Pengkalan Kota,3498,4212
+2019-01-01,Pulau Pinang,P.049 Tanjong,N.28 Komtar,7374,9437
+2022-01-01,Pulau Pinang,P.049 Tanjong,N.28 Komtar,5309,5890
+2024-01-01,Pulau Pinang,P.049 Tanjong,N.28 Komtar,7741,8313
+2019-01-01,Pulau Pinang,P.050 Jelutong,N.29 Datok Keramat,6864,6969
+2022-01-01,Pulau Pinang,P.050 Jelutong,N.29 Datok Keramat,6698,7116
+2024-01-01,Pulau Pinang,P.050 Jelutong,N.29 Datok Keramat,7560,8570
+2019-01-01,Pulau Pinang,P.050 Jelutong,N.30 Sungai Pinang,7260,7625
+2022-01-01,Pulau Pinang,P.050 Jelutong,N.30 Sungai Pinang,6100,6754
+2024-01-01,Pulau Pinang,P.050 Jelutong,N.30 Sungai Pinang,6965,8168
+2019-01-01,Pulau Pinang,P.050 Jelutong,N.31 Batu Lancang,6995,7913
+2022-01-01,Pulau Pinang,P.050 Jelutong,N.31 Batu Lancang,6958,8409
+2024-01-01,Pulau Pinang,P.050 Jelutong,N.31 Batu Lancang,7227,8377
+2019-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.32 Seri Delima,7777,9658
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.32 Seri Delima,8298,11335
+2024-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.32 Seri Delima,9841,13295
+2019-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.33 Air Itam,5533,6577
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.33 Air Itam,6330,7048
+2024-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.33 Air Itam,7054,7613
+2019-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.34 Paya Terubong,6027,7986
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.34 Paya Terubong,6276,7198
+2024-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.34 Paya Terubong,6993,8414
+2019-01-01,Pulau Pinang,P.052 Bayan Baru,N.35 Batu Uban,7681,9430
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,N.35 Batu Uban,7990,9525
+2024-01-01,Pulau Pinang,P.052 Bayan Baru,N.35 Batu Uban,8467,9675
+2019-01-01,Pulau Pinang,P.052 Bayan Baru,N.36 Pantai Jerejak,6952,9613
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,N.36 Pantai Jerejak,7560,9728
+2024-01-01,Pulau Pinang,P.052 Bayan Baru,N.36 Pantai Jerejak,8250,9669
+2019-01-01,Pulau Pinang,P.052 Bayan Baru,N.37 Batu Maung,6111,7926
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,N.37 Batu Maung,8006,10688
+2024-01-01,Pulau Pinang,P.052 Bayan Baru,N.37 Batu Maung,9313,10977
+2019-01-01,Pulau Pinang,P.053 Balik Pulau,N.38 Bayan Lepas,6981,8431
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,N.38 Bayan Lepas,7377,9356
+2024-01-01,Pulau Pinang,P.053 Balik Pulau,N.38 Bayan Lepas,10159,11282
+2019-01-01,Pulau Pinang,P.053 Balik Pulau,N.39 Pulau Betong,5903,6665
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,N.39 Pulau Betong,5638,6508
+2024-01-01,Pulau Pinang,P.053 Balik Pulau,N.39 Pulau Betong,7494,7748
+2019-01-01,Pulau Pinang,P.053 Balik Pulau,N.40 Telok Bahang,5381,6278
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,N.40 Telok Bahang,5846,6945
+2024-01-01,Pulau Pinang,P.053 Balik Pulau,N.40 Telok Bahang,7023,7826
+2019-01-01,Perak,P.054 Gerik,N.01 Pengkalan Hulu,3733,5039
+2022-01-01,Perak,P.054 Gerik,N.01 Pengkalan Hulu,3567,4332
+2024-01-01,Perak,P.054 Gerik,N.01 Pengkalan Hulu,4487,5112
+2019-01-01,Perak,P.054 Gerik,N.02 Temengor,4478,5224
+2022-01-01,Perak,P.054 Gerik,N.02 Temengor,4315,7035
+2024-01-01,Perak,P.054 Gerik,N.02 Temengor,3736,4987
+2019-01-01,Perak,P.055 Lenggong,N.03 Kenering,3733,5039
+2022-01-01,Perak,P.055 Lenggong,N.03 Kenering,3117,3429
+2024-01-01,Perak,P.055 Lenggong,N.03 Kenering,3467,4414
+2019-01-01,Perak,P.055 Lenggong,N.04 Kota Tampan,4478,5224
+2022-01-01,Perak,P.055 Lenggong,N.04 Kota Tampan,2965,4354
+2024-01-01,Perak,P.055 Lenggong,N.04 Kota Tampan,3266,5409
+2019-01-01,Perak,P.056 Larut,N.05 Selama,3961,4981
+2022-01-01,Perak,P.056 Larut,N.05 Selama,3739,4424
+2024-01-01,Perak,P.056 Larut,N.05 Selama,4014,5384
+2019-01-01,Perak,P.056 Larut,N.06 Kubu Gajah,3299,3700
+2022-01-01,Perak,P.056 Larut,N.06 Kubu Gajah,3566,4468
+2024-01-01,Perak,P.056 Larut,N.06 Kubu Gajah,3315,3884
+2019-01-01,Perak,P.056 Larut,N.07 Batu Kurau,5818,6185
+2022-01-01,Perak,P.056 Larut,N.07 Batu Kurau,4000,4941
+2024-01-01,Perak,P.056 Larut,N.07 Batu Kurau,3741,4338
+2019-01-01,Perak,P.057 Parit Buntar,N.08 Titi Serong,4696,5958
+2022-01-01,Perak,P.057 Parit Buntar,N.08 Titi Serong,3850,5845
+2024-01-01,Perak,P.057 Parit Buntar,N.08 Titi Serong,4657,6231
+2019-01-01,Perak,P.057 Parit Buntar,N.09 Kuala Kurau,4412,5058
+2022-01-01,Perak,P.057 Parit Buntar,N.09 Kuala Kurau,4085,4604
+2024-01-01,Perak,P.057 Parit Buntar,N.09 Kuala Kurau,4771,5625
+2019-01-01,Perak,P.058 Bagan Serai,N.10 Alor Pongsu,4954,5330
+2022-01-01,Perak,P.058 Bagan Serai,N.10 Alor Pongsu,4099,6132
+2024-01-01,Perak,P.058 Bagan Serai,N.10 Alor Pongsu,5200,6007
+2019-01-01,Perak,P.058 Bagan Serai,N.11 Gunong Semanggol,4543,5474
+2022-01-01,Perak,P.058 Bagan Serai,N.11 Gunong Semanggol,4178,4845
+2024-01-01,Perak,P.058 Bagan Serai,N.11 Gunong Semanggol,3826,4558
+2019-01-01,Perak,P.058 Bagan Serai,N.12 Selinsing,4390,5631
+2022-01-01,Perak,P.058 Bagan Serai,N.12 Selinsing,3505,4715
+2024-01-01,Perak,P.058 Bagan Serai,N.12 Selinsing,4352,5274
+2019-01-01,Perak,P.059 Bukit Gantang,N.13 Kuala Sepetang,3812,4312
+2022-01-01,Perak,P.059 Bukit Gantang,N.13 Kuala Sepetang,3827,5555
+2024-01-01,Perak,P.059 Bukit Gantang,N.13 Kuala Sepetang,5648,6287
+2019-01-01,Perak,P.059 Bukit Gantang,N.14 Changkat Jering,3678,4856
+2022-01-01,Perak,P.059 Bukit Gantang,N.14 Changkat Jering,3909,4959
+2024-01-01,Perak,P.059 Bukit Gantang,N.14 Changkat Jering,3903,5409
+2019-01-01,Perak,P.059 Bukit Gantang,N.15 Trong,3691,4719
+2022-01-01,Perak,P.059 Bukit Gantang,N.15 Trong,3291,3807
+2024-01-01,Perak,P.059 Bukit Gantang,N.15 Trong,3821,5141
+2019-01-01,Perak,P.060 Taiping,N.16 Kamunting,4530,6434
+2022-01-01,Perak,P.060 Taiping,N.16 Kamunting,4730,6165
+2024-01-01,Perak,P.060 Taiping,N.16 Kamunting,5926,7430
+2019-01-01,Perak,P.060 Taiping,N.17 Pokok Assam,4500,5954
+2022-01-01,Perak,P.060 Taiping,N.17 Pokok Assam,4305,6019
+2024-01-01,Perak,P.060 Taiping,N.17 Pokok Assam,5196,7237
+2019-01-01,Perak,P.060 Taiping,N.18 Aulong,4920,5562
+2022-01-01,Perak,P.060 Taiping,N.18 Aulong,4083,5256
+2024-01-01,Perak,P.060 Taiping,N.18 Aulong,4860,5883
+2019-01-01,Perak,P.061 Padang Rengas,N.19 Chenderoh,4091,4595
+2022-01-01,Perak,P.061 Padang Rengas,N.19 Chenderoh,3807,4523
+2024-01-01,Perak,P.061 Padang Rengas,N.19 Chenderoh,3191,4098
+2019-01-01,Perak,P.061 Padang Rengas,N.20 Lubok Merbau,5233,8567
+2022-01-01,Perak,P.061 Padang Rengas,N.20 Lubok Merbau,4151,6123
+2024-01-01,Perak,P.061 Padang Rengas,N.20 Lubok Merbau,3724,7935
+2019-01-01,Perak,P.062 Sungai Siput,N.21 Lintang,3289,4412
+2022-01-01,Perak,P.062 Sungai Siput,N.21 Lintang,3512,5067
+2024-01-01,Perak,P.062 Sungai Siput,N.21 Lintang,3769,4410
+2019-01-01,Perak,P.062 Sungai Siput,N.22 Jalong,3602,4391
+2022-01-01,Perak,P.062 Sungai Siput,N.22 Jalong,3263,4672
+2024-01-01,Perak,P.062 Sungai Siput,N.22 Jalong,4477,5539
+2019-01-01,Perak,P.063 Tambun,N.23 Manjoi,5160,6669
+2022-01-01,Perak,P.063 Tambun,N.23 Manjoi,5193,6622
+2024-01-01,Perak,P.063 Tambun,N.23 Manjoi,5528,7554
+2019-01-01,Perak,P.063 Tambun,N.24 Hulu Kinta,4842,5396
+2022-01-01,Perak,P.063 Tambun,N.24 Hulu Kinta,6464,7525
+2024-01-01,Perak,P.063 Tambun,N.24 Hulu Kinta,5720,7929
+2019-01-01,Perak,P.064 Ipoh Timor,N.25 Canning,4169,6989
+2022-01-01,Perak,P.064 Ipoh Timor,N.25 Canning,5101,7658
+2024-01-01,Perak,P.064 Ipoh Timor,N.25 Canning,5843,9797
+2019-01-01,Perak,P.064 Ipoh Timor,N.26 Tebing Tinggi,4783,5519
+2022-01-01,Perak,P.064 Ipoh Timor,N.26 Tebing Tinggi,5191,5993
+2024-01-01,Perak,P.064 Ipoh Timor,N.26 Tebing Tinggi,4434,5432
+2019-01-01,Perak,P.064 Ipoh Timor,N.27 Pasir Pinji,4639,5932
+2022-01-01,Perak,P.064 Ipoh Timor,N.27 Pasir Pinji,4427,6638
+2024-01-01,Perak,P.064 Ipoh Timor,N.27 Pasir Pinji,3165,4704
+2019-01-01,Perak,P.065 Ipoh Barat,N.28 Bercham,4858,6106
+2022-01-01,Perak,P.065 Ipoh Barat,N.28 Bercham,4581,6014
+2024-01-01,Perak,P.065 Ipoh Barat,N.28 Bercham,4417,5103
+2019-01-01,Perak,P.065 Ipoh Barat,N.29 Kepayang,4466,14717
+2022-01-01,Perak,P.065 Ipoh Barat,N.29 Kepayang,4555,5781
+2024-01-01,Perak,P.065 Ipoh Barat,N.29 Kepayang,7335,8843
+2019-01-01,Perak,P.065 Ipoh Barat,N.30 Buntong,3578,5102
+2022-01-01,Perak,P.065 Ipoh Barat,N.30 Buntong,4322,5459
+2024-01-01,Perak,P.065 Ipoh Barat,N.30 Buntong,4619,5184
+2019-01-01,Perak,P.066 Batu Gajah,N.31 Jelapang,4094,4929
+2022-01-01,Perak,P.066 Batu Gajah,N.31 Jelapang,4033,5152
+2024-01-01,Perak,P.066 Batu Gajah,N.31 Jelapang,4623,5646
+2019-01-01,Perak,P.066 Batu Gajah,N.32 Menglembu,3258,4056
+2022-01-01,Perak,P.066 Batu Gajah,N.32 Menglembu,4026,4701
+2024-01-01,Perak,P.066 Batu Gajah,N.32 Menglembu,3943,5824
+2019-01-01,Perak,P.066 Batu Gajah,N.33 Tronoh,4563,4946
+2022-01-01,Perak,P.066 Batu Gajah,N.33 Tronoh,4896,5176
+2024-01-01,Perak,P.066 Batu Gajah,N.33 Tronoh,6310,7284
+2019-01-01,Perak,P.067 Kuala Kangsar,N.34 Bukit Chandan,4717,5651
+2022-01-01,Perak,P.067 Kuala Kangsar,N.34 Bukit Chandan,4538,5263
+2024-01-01,Perak,P.067 Kuala Kangsar,N.34 Bukit Chandan,4523,6205
+2019-01-01,Perak,P.067 Kuala Kangsar,N.35 Manong,3571,4098
+2022-01-01,Perak,P.067 Kuala Kangsar,N.35 Manong,3959,5350
+2024-01-01,Perak,P.067 Kuala Kangsar,N.35 Manong,3743,4531
+2019-01-01,Perak,P.068 Beruas,N.36 Pengkalan Baharu,2777,4438
+2022-01-01,Perak,P.068 Beruas,N.36 Pengkalan Baharu,3801,4725
+2024-01-01,Perak,P.068 Beruas,N.36 Pengkalan Baharu,4059,4726
+2019-01-01,Perak,P.068 Beruas,N.37 Pantai Remis,3678,4020
+2022-01-01,Perak,P.068 Beruas,N.37 Pantai Remis,4199,5348
+2024-01-01,Perak,P.068 Beruas,N.37 Pantai Remis,3966,5033
+2019-01-01,Perak,P.068 Beruas,N.38 Astaka,4977,7441
+2022-01-01,Perak,P.068 Beruas,N.38 Astaka,5172,6139
+2024-01-01,Perak,P.068 Beruas,N.38 Astaka,5547,6932
+2019-01-01,Perak,P.069 Parit,N.39 Belanja,3194,4028
+2022-01-01,Perak,P.069 Parit,N.39 Belanja,2906,3599
+2024-01-01,Perak,P.069 Parit,N.39 Belanja,3794,4445
+2019-01-01,Perak,P.069 Parit,N.40 Bota,5016,6650
+2022-01-01,Perak,P.069 Parit,N.40 Bota,5955,7184
+2024-01-01,Perak,P.069 Parit,N.40 Bota,5255,6942
+2019-01-01,Perak,P.070 Kampar,N.41 Malim Nawar,3135,5028
+2022-01-01,Perak,P.070 Kampar,N.41 Malim Nawar,4011,4527
+2024-01-01,Perak,P.070 Kampar,N.41 Malim Nawar,4294,5274
+2019-01-01,Perak,P.070 Kampar,N.42 Keranji,3941,4792
+2022-01-01,Perak,P.070 Kampar,N.42 Keranji,3858,4705
+2024-01-01,Perak,P.070 Kampar,N.42 Keranji,4388,5853
+2019-01-01,Perak,P.070 Kampar,N.43 Tualang Sekah,3212,4582
+2022-01-01,Perak,P.070 Kampar,N.43 Tualang Sekah,3984,5037
+2024-01-01,Perak,P.070 Kampar,N.43 Tualang Sekah,3664,4559
+2019-01-01,Perak,P.071 Gopeng,N.44 Sungai Rapat,4062,4795
+2022-01-01,Perak,P.071 Gopeng,N.44 Sungai Rapat,5379,6209
+2024-01-01,Perak,P.071 Gopeng,N.44 Sungai Rapat,4988,6239
+2019-01-01,Perak,P.071 Gopeng,N.45 Simpang Pulai,4988,6762
+2022-01-01,Perak,P.071 Gopeng,N.45 Simpang Pulai,5227,6830
+2024-01-01,Perak,P.071 Gopeng,N.45 Simpang Pulai,5992,7788
+2019-01-01,Perak,P.071 Gopeng,N.46 Teja,4066,4865
+2022-01-01,Perak,P.071 Gopeng,N.46 Teja,5526,6173
+2024-01-01,Perak,P.071 Gopeng,N.46 Teja,5145,5473
+2019-01-01,Perak,P.072 Tapah,N.47 Chenderiang,3681,6231
+2022-01-01,Perak,P.072 Tapah,N.47 Chenderiang,4068,5484
+2024-01-01,Perak,P.072 Tapah,N.47 Chenderiang,4668,5735
+2019-01-01,Perak,P.072 Tapah,N.48 Ayer Kuning,4014,4875
+2022-01-01,Perak,P.072 Tapah,N.48 Ayer Kuning,4033,4883
+2024-01-01,Perak,P.072 Tapah,N.48 Ayer Kuning,3851,5011
+2019-01-01,Perak,P.073 Pasir Salak,N.49 Sungai Manik,3357,3946
+2022-01-01,Perak,P.073 Pasir Salak,N.49 Sungai Manik,4230,4914
+2024-01-01,Perak,P.073 Pasir Salak,N.49 Sungai Manik,3769,4297
+2019-01-01,Perak,P.073 Pasir Salak,N.50 Kampong Gajah,3046,3641
+2022-01-01,Perak,P.073 Pasir Salak,N.50 Kampong Gajah,3911,4650
+2024-01-01,Perak,P.073 Pasir Salak,N.50 Kampong Gajah,4554,5739
+2019-01-01,Perak,P.074 Lumut,N.51 Pasir Panjang,5810,6873
+2022-01-01,Perak,P.074 Lumut,N.51 Pasir Panjang,6228,7439
+2024-01-01,Perak,P.074 Lumut,N.51 Pasir Panjang,6534,8086
+2019-01-01,Perak,P.074 Lumut,N.52 Pangkor,3869,5564
+2022-01-01,Perak,P.074 Lumut,N.52 Pangkor,3802,4342
+2024-01-01,Perak,P.074 Lumut,N.52 Pangkor,4416,4670
+2019-01-01,Perak,P.075 Bagan Datuk,N.53 Rungkup,3000,3606
+2022-01-01,Perak,P.075 Bagan Datuk,N.53 Rungkup,3501,4933
+2024-01-01,Perak,P.075 Bagan Datuk,N.53 Rungkup,3884,5161
+2019-01-01,Perak,P.075 Bagan Datuk,N.54 Hutan Melintang,4674,5996
+2022-01-01,Perak,P.075 Bagan Datuk,N.54 Hutan Melintang,4214,5270
+2024-01-01,Perak,P.075 Bagan Datuk,N.54 Hutan Melintang,4280,5448
+2019-01-01,Perak,P.076 Teluk Intan,N.55 Pasir Bedamar,3159,5234
+2022-01-01,Perak,P.076 Teluk Intan,N.55 Pasir Bedamar,3911,5568
+2024-01-01,Perak,P.076 Teluk Intan,N.55 Pasir Bedamar,4238,5702
+2019-01-01,Perak,P.076 Teluk Intan,N.56 Changkat Jong,3958,4926
+2022-01-01,Perak,P.076 Teluk Intan,N.56 Changkat Jong,4204,5145
+2024-01-01,Perak,P.076 Teluk Intan,N.56 Changkat Jong,4840,6360
+2019-01-01,Perak,P.077 Tanjong Malim,N.57 Sungkai,4599,6096
+2022-01-01,Perak,P.077 Tanjong Malim,N.57 Sungkai,3477,5116
+2024-01-01,Perak,P.077 Tanjong Malim,N.57 Sungkai,4495,5656
+2019-01-01,Perak,P.077 Tanjong Malim,N.58 Slim,3975,5318
+2022-01-01,Perak,P.077 Tanjong Malim,N.58 Slim,4379,4885
+2024-01-01,Perak,P.077 Tanjong Malim,N.58 Slim,3946,5605
+2019-01-01,Perak,P.077 Tanjong Malim,N.59 Behrang,3915,5587
+2022-01-01,Perak,P.077 Tanjong Malim,N.59 Behrang,5020,6345
+2024-01-01,Perak,P.077 Tanjong Malim,N.59 Behrang,5014,6360
+2019-01-01,Pahang,P.078 Cameron Highlands,N.01 Tanah Rata,5788,6582
+2022-01-01,Pahang,P.078 Cameron Highlands,N.01 Tanah Rata,5221,6265
+2024-01-01,Pahang,P.078 Cameron Highlands,N.01 Tanah Rata,5655,6895
+2019-01-01,Pahang,P.078 Cameron Highlands,N.02 Jelai,3755,4943
+2022-01-01,Pahang,P.078 Cameron Highlands,N.02 Jelai,3292,3862
+2024-01-01,Pahang,P.078 Cameron Highlands,N.02 Jelai,3650,4728
+2019-01-01,Pahang,P.079 Lipis,N.03 Padang Tengku,3628,4475
+2022-01-01,Pahang,P.079 Lipis,N.03 Padang Tengku,4204,5118
+2024-01-01,Pahang,P.079 Lipis,N.03 Padang Tengku,4603,5341
+2019-01-01,Pahang,P.079 Lipis,N.04 Cheka,3846,5006
+2022-01-01,Pahang,P.079 Lipis,N.04 Cheka,5072,5823
+2024-01-01,Pahang,P.079 Lipis,N.04 Cheka,5474,6131
+2019-01-01,Pahang,P.079 Lipis,N.05 Benta,3154,3775
+2022-01-01,Pahang,P.079 Lipis,N.05 Benta,3939,4782
+2024-01-01,Pahang,P.079 Lipis,N.05 Benta,4314,4607
+2019-01-01,Pahang,P.080 Raub,N.06 Batu Talam,3731,3965
+2022-01-01,Pahang,P.080 Raub,N.06 Batu Talam,4046,5270
+2024-01-01,Pahang,P.080 Raub,N.06 Batu Talam,3660,4207
+2019-01-01,Pahang,P.080 Raub,N.07 Tras,3948,5322
+2022-01-01,Pahang,P.080 Raub,N.07 Tras,4221,5217
+2024-01-01,Pahang,P.080 Raub,N.07 Tras,4452,6425
+2019-01-01,Pahang,P.080 Raub,N.08 Dong,3661,4158
+2022-01-01,Pahang,P.080 Raub,N.08 Dong,5143,6030
+2024-01-01,Pahang,P.080 Raub,N.08 Dong,4897,6610
+2019-01-01,Pahang,P.081 Jerantut,N.09 Tahan,3617,4292
+2022-01-01,Pahang,P.081 Jerantut,N.09 Tahan,3033,3975
+2024-01-01,Pahang,P.081 Jerantut,N.09 Tahan,4146,4602
+2019-01-01,Pahang,P.081 Jerantut,N.10 Damak,3937,4710
+2022-01-01,Pahang,P.081 Jerantut,N.10 Damak,3775,4837
+2024-01-01,Pahang,P.081 Jerantut,N.10 Damak,3872,5063
+2019-01-01,Pahang,P.081 Jerantut,N.11 Pulau Tawar,3518,4072
+2022-01-01,Pahang,P.081 Jerantut,N.11 Pulau Tawar,4282,4744
+2024-01-01,Pahang,P.081 Jerantut,N.11 Pulau Tawar,4790,5870
+2019-01-01,Pahang,P.082 Indera Mahkota,N.12 Beserah,4973,6581
+2022-01-01,Pahang,P.082 Indera Mahkota,N.12 Beserah,6294,7454
+2024-01-01,Pahang,P.082 Indera Mahkota,N.12 Beserah,5505,6440
+2019-01-01,Pahang,P.082 Indera Mahkota,N.13 Semambu,6769,8573
+2022-01-01,Pahang,P.082 Indera Mahkota,N.13 Semambu,5935,7457
+2024-01-01,Pahang,P.082 Indera Mahkota,N.13 Semambu,6608,8827
+2019-01-01,Pahang,P.083 Kuantan,N.14 Teruntum,6125,7634
+2022-01-01,Pahang,P.083 Kuantan,N.14 Teruntum,6777,7396
+2024-01-01,Pahang,P.083 Kuantan,N.14 Teruntum,5097,5652
+2019-01-01,Pahang,P.083 Kuantan,N.15 Tanjung Lumpur,6222,6720
+2022-01-01,Pahang,P.083 Kuantan,N.15 Tanjung Lumpur,5840,6642
+2024-01-01,Pahang,P.083 Kuantan,N.15 Tanjung Lumpur,5099,6358
+2019-01-01,Pahang,P.083 Kuantan,N.16 Inderapura,4603,5885
+2022-01-01,Pahang,P.083 Kuantan,N.16 Inderapura,4994,6131
+2024-01-01,Pahang,P.083 Kuantan,N.16 Inderapura,4986,6482
+2019-01-01,Pahang,P.084 Paya Besar,N.17 Sungai Lembing,3589,4286
+2022-01-01,Pahang,P.084 Paya Besar,N.17 Sungai Lembing,5279,6183
+2024-01-01,Pahang,P.084 Paya Besar,N.17 Sungai Lembing,5234,5968
+2019-01-01,Pahang,P.084 Paya Besar,N.18 Lepar,5071,6184
+2022-01-01,Pahang,P.084 Paya Besar,N.18 Lepar,5242,6005
+2024-01-01,Pahang,P.084 Paya Besar,N.18 Lepar,6228,7661
+2019-01-01,Pahang,P.084 Paya Besar,N.19 Panching,5343,6715
+2022-01-01,Pahang,P.084 Paya Besar,N.19 Panching,6005,6738
+2024-01-01,Pahang,P.084 Paya Besar,N.19 Panching,5578,6657
+2019-01-01,Pahang,P.085 Pekan,N.20 Pulau Manis,5096,5888
+2022-01-01,Pahang,P.085 Pekan,N.20 Pulau Manis,5916,6367
+2024-01-01,Pahang,P.085 Pekan,N.20 Pulau Manis,5211,5911
+2019-01-01,Pahang,P.085 Pekan,N.21 Peramu Jaya,4362,5560
+2022-01-01,Pahang,P.085 Pekan,N.21 Peramu Jaya,4249,5156
+2024-01-01,Pahang,P.085 Pekan,N.21 Peramu Jaya,5093,5481
+2019-01-01,Pahang,P.085 Pekan,N.22 Bebar,3370,3544
+2022-01-01,Pahang,P.085 Pekan,N.22 Bebar,3394,3997
+2024-01-01,Pahang,P.085 Pekan,N.22 Bebar,3443,4484
+2019-01-01,Pahang,P.085 Pekan,N.23 Chini,4559,5587
+2022-01-01,Pahang,P.085 Pekan,N.23 Chini,3950,4656
+2024-01-01,Pahang,P.085 Pekan,N.23 Chini,4681,5191
+2019-01-01,Pahang,P.086 Maran,N.24 Luit,3344,4271
+2022-01-01,Pahang,P.086 Maran,N.24 Luit,4325,4895
+2024-01-01,Pahang,P.086 Maran,N.24 Luit,3571,3812
+2019-01-01,Pahang,P.086 Maran,N.25 Kuala Sentul,4052,4492
+2022-01-01,Pahang,P.086 Maran,N.25 Kuala Sentul,3734,4466
+2024-01-01,Pahang,P.086 Maran,N.25 Kuala Sentul,4044,4933
+2019-01-01,Pahang,P.086 Maran,N.26 Chenor,3617,4438
+2022-01-01,Pahang,P.086 Maran,N.26 Chenor,4008,4833
+2024-01-01,Pahang,P.086 Maran,N.26 Chenor,4381,5317
+2019-01-01,Pahang,P.087 Kuala Krau,N.27 Jenderak,3856,4127
+2022-01-01,Pahang,P.087 Kuala Krau,N.27 Jenderak,3840,4439
+2024-01-01,Pahang,P.087 Kuala Krau,N.27 Jenderak,3562,3942
+2019-01-01,Pahang,P.087 Kuala Krau,N.28 Kerdau,3613,5059
+2022-01-01,Pahang,P.087 Kuala Krau,N.28 Kerdau,5132,5793
+2024-01-01,Pahang,P.087 Kuala Krau,N.28 Kerdau,4938,5582
+2019-01-01,Pahang,P.087 Kuala Krau,N.29 Jengka,3834,5161
+2022-01-01,Pahang,P.087 Kuala Krau,N.29 Jengka,4623,5415
+2024-01-01,Pahang,P.087 Kuala Krau,N.29 Jengka,4895,5465
+2019-01-01,Pahang,P.088 Temerloh,N.30 Mentakab,4120,5283
+2022-01-01,Pahang,P.088 Temerloh,N.30 Mentakab,4343,5317
+2024-01-01,Pahang,P.088 Temerloh,N.30 Mentakab,4657,5749
+2019-01-01,Pahang,P.088 Temerloh,N.31 Lanchang,4278,4960
+2022-01-01,Pahang,P.088 Temerloh,N.31 Lanchang,4144,4649
+2024-01-01,Pahang,P.088 Temerloh,N.31 Lanchang,4659,5103
+2019-01-01,Pahang,P.088 Temerloh,N.32 Kuala Semantan,4335,5580
+2022-01-01,Pahang,P.088 Temerloh,N.32 Kuala Semantan,4450,5501
+2024-01-01,Pahang,P.088 Temerloh,N.32 Kuala Semantan,4704,6122
+2019-01-01,Pahang,P.089 Bentong,N.33 Bilut,4335,5121
+2022-01-01,Pahang,P.089 Bentong,N.33 Bilut,4464,5238
+2024-01-01,Pahang,P.089 Bentong,N.33 Bilut,4473,6243
+2019-01-01,Pahang,P.089 Bentong,N.34 Ketari,4254,5620
+2022-01-01,Pahang,P.089 Bentong,N.34 Ketari,5081,6115
+2024-01-01,Pahang,P.089 Bentong,N.34 Ketari,5883,7046
+2019-01-01,Pahang,P.089 Bentong,N.35 Sabai,4092,4947
+2022-01-01,Pahang,P.089 Bentong,N.35 Sabai,4032,4739
+2024-01-01,Pahang,P.089 Bentong,N.35 Sabai,5498,6288
+2019-01-01,Pahang,P.089 Bentong,N.36 Pelangai,4210,4253
+2022-01-01,Pahang,P.089 Bentong,N.36 Pelangai,5115,5536
+2024-01-01,Pahang,P.089 Bentong,N.36 Pelangai,4352,4531
+2019-01-01,Pahang,P.090 Bera,N.37 Guai,4045,5073
+2022-01-01,Pahang,P.090 Bera,N.37 Guai,3840,4472
+2024-01-01,Pahang,P.090 Bera,N.37 Guai,5052,5381
+2019-01-01,Pahang,P.090 Bera,N.38 Triang,3579,4379
+2022-01-01,Pahang,P.090 Bera,N.38 Triang,3839,4570
+2024-01-01,Pahang,P.090 Bera,N.38 Triang,4242,5047
+2019-01-01,Pahang,P.090 Bera,N.39 Kemayan,3567,4451
+2022-01-01,Pahang,P.090 Bera,N.39 Kemayan,3910,4675
+2024-01-01,Pahang,P.090 Bera,N.39 Kemayan,3855,4452
+2019-01-01,Pahang,P.091 Rompin,N.40 Bukit Ibam,3899,4421
+2022-01-01,Pahang,P.091 Rompin,N.40 Bukit Ibam,4095,5363
+2024-01-01,Pahang,P.091 Rompin,N.40 Bukit Ibam,5304,5640
+2019-01-01,Pahang,P.091 Rompin,N.41 Muadzam Shah,3536,4460
+2022-01-01,Pahang,P.091 Rompin,N.41 Muadzam Shah,3719,4740
+2024-01-01,Pahang,P.091 Rompin,N.41 Muadzam Shah,4752,5861
+2019-01-01,Pahang,P.091 Rompin,N.42 Tioman,3558,4947
+2022-01-01,Pahang,P.091 Rompin,N.42 Tioman,4426,5278
+2024-01-01,Pahang,P.091 Rompin,N.42 Tioman,4322,4979
+2019-01-01,Selangor,P.092 Sabak Bernam,N.01 Sungai Air Tawar,3105,4315
+2022-01-01,Selangor,P.092 Sabak Bernam,N.01 Sungai Air Tawar,5934,6495
+2024-01-01,Selangor,P.092 Sabak Bernam,N.01 Sungai Air Tawar,6641,6701
+2019-01-01,Selangor,P.092 Sabak Bernam,N.02 Sabak,3523,4548
+2022-01-01,Selangor,P.092 Sabak Bernam,N.02 Sabak,4831,6951
+2024-01-01,Selangor,P.092 Sabak Bernam,N.02 Sabak,6850,7390
+2019-01-01,Selangor,P.093 Sungai Besar,N.03 Sungai Panjang,5098,7201
+2022-01-01,Selangor,P.093 Sungai Besar,N.03 Sungai Panjang,5351,6864
+2024-01-01,Selangor,P.093 Sungai Besar,N.03 Sungai Panjang,7387,8084
+2019-01-01,Selangor,P.093 Sungai Besar,N.04 Sekinchan,5250,6828
+2022-01-01,Selangor,P.093 Sungai Besar,N.04 Sekinchan,6241,7335
+2024-01-01,Selangor,P.093 Sungai Besar,N.04 Sekinchan,7695,9765
+2019-01-01,Selangor,P.094 Hulu Selangor,N.05 Hulu Bernam,5379,6176
+2022-01-01,Selangor,P.094 Hulu Selangor,N.05 Hulu Bernam,10222,10640
+2024-01-01,Selangor,P.094 Hulu Selangor,N.05 Hulu Bernam,7659,9221
+2019-01-01,Selangor,P.094 Hulu Selangor,N.06 Kuala Kubu Baharu,5497,7212
+2022-01-01,Selangor,P.094 Hulu Selangor,N.06 Kuala Kubu Baharu,7188,8276
+2024-01-01,Selangor,P.094 Hulu Selangor,N.06 Kuala Kubu Baharu,8090,8098
+2019-01-01,Selangor,P.094 Hulu Selangor,N.07 Batang Kali,6752,7965
+2022-01-01,Selangor,P.094 Hulu Selangor,N.07 Batang Kali,7625,8590
+2024-01-01,Selangor,P.094 Hulu Selangor,N.07 Batang Kali,8822,9972
+2019-01-01,Selangor,P.095 Tanjong Karang,N.08 Sungai Burong,3921,5334
+2022-01-01,Selangor,P.095 Tanjong Karang,N.08 Sungai Burong,6083,6910
+2024-01-01,Selangor,P.095 Tanjong Karang,N.08 Sungai Burong,5786,6514
+2019-01-01,Selangor,P.095 Tanjong Karang,N.09 Permatang,4534,6285
+2022-01-01,Selangor,P.095 Tanjong Karang,N.09 Permatang,5817,7425
+2024-01-01,Selangor,P.095 Tanjong Karang,N.09 Permatang,7603,8895
+2019-01-01,Selangor,P.096 Kuala Selangor,N.10 Bukit Melawati,4876,6003
+2022-01-01,Selangor,P.096 Kuala Selangor,N.10 Bukit Melawati,7453,8002
+2024-01-01,Selangor,P.096 Kuala Selangor,N.10 Bukit Melawati,6201,7034
+2019-01-01,Selangor,P.096 Kuala Selangor,N.11 Ijok,4850,7387
+2022-01-01,Selangor,P.096 Kuala Selangor,N.11 Ijok,5322,7174
+2024-01-01,Selangor,P.096 Kuala Selangor,N.11 Ijok,6423,9870
+2019-01-01,Selangor,P.096 Kuala Selangor,N.12 Jeram,6572,8059
+2022-01-01,Selangor,P.096 Kuala Selangor,N.12 Jeram,8601,10984
+2024-01-01,Selangor,P.096 Kuala Selangor,N.12 Jeram,8533,11563
+2019-01-01,Selangor,P.097 Selayang,N.13 Kuang,7970,9354
+2022-01-01,Selangor,P.097 Selayang,N.13 Kuang,9270,11619
+2024-01-01,Selangor,P.097 Selayang,N.13 Kuang,12863,13600
+2019-01-01,Selangor,P.097 Selayang,N.14 Rawang,7019,9328
+2022-01-01,Selangor,P.097 Selayang,N.14 Rawang,8700,11652
+2024-01-01,Selangor,P.097 Selayang,N.14 Rawang,10119,11092
+2019-01-01,Selangor,P.097 Selayang,N.15 Taman Templer,8284,9918
+2022-01-01,Selangor,P.097 Selayang,N.15 Taman Templer,8194,10134
+2024-01-01,Selangor,P.097 Selayang,N.15 Taman Templer,8626,9287
+2019-01-01,Selangor,P.098 Gombak,N.16 Sungai Tua,8010,11782
+2022-01-01,Selangor,P.098 Gombak,N.16 Sungai Tua,11253,12993
+2024-01-01,Selangor,P.098 Gombak,N.16 Sungai Tua,8808,13941
+2019-01-01,Selangor,P.098 Gombak,N.17 Gombak Setia,7520,9362
+2022-01-01,Selangor,P.098 Gombak,N.17 Gombak Setia,8842,10256
+2024-01-01,Selangor,P.098 Gombak,N.17 Gombak Setia,13016,13735
+2019-01-01,Selangor,P.098 Gombak,N.18 Hulu Kelang,10873,14549
+2022-01-01,Selangor,P.098 Gombak,N.18 Hulu Kelang,17928,20297
+2024-01-01,Selangor,P.098 Gombak,N.18 Hulu Kelang,9556,13149
+2019-01-01,Selangor,P.099 Ampang,N.19 Bukit Antarabangsa,9888,13605
+2022-01-01,Selangor,P.099 Ampang,N.19 Bukit Antarabangsa,10969,17443
+2024-01-01,Selangor,P.099 Ampang,N.19 Bukit Antarabangsa,12635,19722
+2019-01-01,Selangor,P.099 Ampang,N.20 Lembah Jaya,8110,13574
+2022-01-01,Selangor,P.099 Ampang,N.20 Lembah Jaya,9646,10387
+2024-01-01,Selangor,P.099 Ampang,N.20 Lembah Jaya,10823,12160
+2019-01-01,Selangor,P.100 Pandan,N.21 Pandan Indah,7620,9002
+2022-01-01,Selangor,P.100 Pandan,N.21 Pandan Indah,10169,10814
+2024-01-01,Selangor,P.100 Pandan,N.21 Pandan Indah,11181,12110
+2019-01-01,Selangor,P.100 Pandan,N.22 Teratai,8838,9814
+2022-01-01,Selangor,P.100 Pandan,N.22 Teratai,11616,14497
+2024-01-01,Selangor,P.100 Pandan,N.22 Teratai,10584,11739
+2019-01-01,Selangor,P.101 Hulu Langat,N.23 Dusun Tua,9248,10611
+2022-01-01,Selangor,P.101 Hulu Langat,N.23 Dusun Tua,12519,14127
+2024-01-01,Selangor,P.101 Hulu Langat,N.23 Dusun Tua,11089,12717
+2019-01-01,Selangor,P.101 Hulu Langat,N.24 Semenyih,8969,10097
+2022-01-01,Selangor,P.101 Hulu Langat,N.24 Semenyih,11088,11642
+2024-01-01,Selangor,P.101 Hulu Langat,N.24 Semenyih,11681,14914
+2019-01-01,Selangor,P.102 Bangi,N.25 Kajang,8127,9805
+2022-01-01,Selangor,P.102 Bangi,N.25 Kajang,11835,16648
+2024-01-01,Selangor,P.102 Bangi,N.25 Kajang,12942,14062
+2019-01-01,Selangor,P.102 Bangi,N.26 Sungai Ramal,8681,11127
+2022-01-01,Selangor,P.102 Bangi,N.26 Sungai Ramal,11135,13052
+2024-01-01,Selangor,P.102 Bangi,N.26 Sungai Ramal,12655,17280
+2019-01-01,Selangor,P.102 Bangi,N.27 Balakong,8209,9692
+2022-01-01,Selangor,P.102 Bangi,N.27 Balakong,11382,13459
+2024-01-01,Selangor,P.102 Bangi,N.27 Balakong,10945,13346
+2019-01-01,Selangor,P.103 Puchong,N.28 Seri Kembangan,9111,11412
+2022-01-01,Selangor,P.103 Puchong,N.28 Seri Kembangan,9667,11490
+2024-01-01,Selangor,P.103 Puchong,N.28 Seri Kembangan,10825,13479
+2019-01-01,Selangor,P.103 Puchong,N.29 Seri Serdang,6902,9589
+2022-01-01,Selangor,P.103 Puchong,N.29 Seri Serdang,9275,11655
+2024-01-01,Selangor,P.103 Puchong,N.29 Seri Serdang,8603,10553
+2019-01-01,Selangor,P.104 Subang,N.30 Kinrara,9870,12816
+2022-01-01,Selangor,P.104 Subang,N.30 Kinrara,9584,11863
+2024-01-01,Selangor,P.104 Subang,N.30 Kinrara,12180,14505
+2019-01-01,Selangor,P.104 Subang,N.31 Subang Jaya,9980,12656
+2022-01-01,Selangor,P.104 Subang,N.31 Subang Jaya,9520,12607
+2024-01-01,Selangor,P.104 Subang,N.31 Subang Jaya,12054,15934
+2019-01-01,Selangor,P.105 Petaling Jaya,N.32 Seri Setia,8624,11456
+2022-01-01,Selangor,P.105 Petaling Jaya,N.32 Seri Setia,9112,11753
+2024-01-01,Selangor,P.105 Petaling Jaya,N.32 Seri Setia,12219,20604
+2019-01-01,Selangor,P.105 Petaling Jaya,N.33 Taman Medan,7401,8923
+2022-01-01,Selangor,P.105 Petaling Jaya,N.33 Taman Medan,8667,9726
+2024-01-01,Selangor,P.105 Petaling Jaya,N.33 Taman Medan,9009,9994
+2019-01-01,Selangor,P.105 Petaling Jaya,N.34 Bukit Gasing,11300,21444
+2022-01-01,Selangor,P.105 Petaling Jaya,N.34 Bukit Gasing,7386,11755
+2024-01-01,Selangor,P.105 Petaling Jaya,N.34 Bukit Gasing,13630,16297
+2019-01-01,Selangor,P.106 Damansara,N.35 Kampung Tunku,8685,10357
+2022-01-01,Selangor,P.106 Damansara,N.35 Kampung Tunku,9652,13103
+2024-01-01,Selangor,P.106 Damansara,N.35 Kampung Tunku,6854,12864
+2019-01-01,Selangor,P.106 Damansara,N.36 Bandar Utama,12533,15351
+2022-01-01,Selangor,P.106 Damansara,N.36 Bandar Utama,12426,14458
+2024-01-01,Selangor,P.106 Damansara,N.36 Bandar Utama,12780,15492
+2019-01-01,Selangor,P.106 Damansara,N.37 Bukit Lanjan,8174,11321
+2022-01-01,Selangor,P.106 Damansara,N.37 Bukit Lanjan,9844,12482
+2024-01-01,Selangor,P.106 Damansara,N.37 Bukit Lanjan,10568,12803
+2019-01-01,Selangor,P.107 Sungai Buloh,N.38 Paya Jaras,6554,8758
+2022-01-01,Selangor,P.107 Sungai Buloh,N.38 Paya Jaras,8057,9773
+2024-01-01,Selangor,P.107 Sungai Buloh,N.38 Paya Jaras,13214,16524
+2019-01-01,Selangor,P.107 Sungai Buloh,N.39 Kota Damansara,8047,13655
+2022-01-01,Selangor,P.107 Sungai Buloh,N.39 Kota Damansara,10134,14172
+2024-01-01,Selangor,P.107 Sungai Buloh,N.39 Kota Damansara,9128,15455
+2019-01-01,Selangor,P.108 Shah Alam,N.40 Kota Anggerik,12195,15274
+2022-01-01,Selangor,P.108 Shah Alam,N.40 Kota Anggerik,11448,14852
+2024-01-01,Selangor,P.108 Shah Alam,N.40 Kota Anggerik,12457,15834
+2019-01-01,Selangor,P.108 Shah Alam,N.41 Batu Tiga,8002,11130
+2022-01-01,Selangor,P.108 Shah Alam,N.41 Batu Tiga,8858,17176
+2024-01-01,Selangor,P.108 Shah Alam,N.41 Batu Tiga,8512,11917
+2019-01-01,Selangor,P.109 Kapar,N.42 Meru,7438,8759
+2022-01-01,Selangor,P.109 Kapar,N.42 Meru,8239,12364
+2024-01-01,Selangor,P.109 Kapar,N.42 Meru,8913,10096
+2019-01-01,Selangor,P.109 Kapar,N.43 Sementa,6750,7607
+2022-01-01,Selangor,P.109 Kapar,N.43 Sementa,7745,8897
+2024-01-01,Selangor,P.109 Kapar,N.43 Sementa,8716,11132
+2019-01-01,Selangor,P.109 Kapar,N.44 Selat Klang,5528,7474
+2022-01-01,Selangor,P.109 Kapar,N.44 Selat Klang,7163,8002
+2024-01-01,Selangor,P.109 Kapar,N.44 Selat Klang,8482,9802
+2019-01-01,Selangor,P.110 Klang,N.45 Bandar Baru Klang,8100,9840
+2022-01-01,Selangor,P.110 Klang,N.45 Bandar Baru Klang,8407,10667
+2024-01-01,Selangor,P.110 Klang,N.45 Bandar Baru Klang,8591,9809
+2019-01-01,Selangor,P.110 Klang,N.46 Pelabuhan Klang,8150,9431
+2022-01-01,Selangor,P.110 Klang,N.46 Pelabuhan Klang,7473,8841
+2024-01-01,Selangor,P.110 Klang,N.46 Pelabuhan Klang,9022,11065
+2019-01-01,Selangor,P.110 Klang,N.47 Pandamaran,8643,11820
+2022-01-01,Selangor,P.110 Klang,N.47 Pandamaran,9572,11300
+2024-01-01,Selangor,P.110 Klang,N.47 Pandamaran,8568,11716
+2019-01-01,Selangor,P.111 Kota Raja,N.48 Sentosa,8039,9364
+2022-01-01,Selangor,P.111 Kota Raja,N.48 Sentosa,7723,9063
+2024-01-01,Selangor,P.111 Kota Raja,N.48 Sentosa,8917,10691
+2019-01-01,Selangor,P.111 Kota Raja,N.49 Sungai Kandis,9164,11051
+2022-01-01,Selangor,P.111 Kota Raja,N.49 Sungai Kandis,9393,11798
+2024-01-01,Selangor,P.111 Kota Raja,N.49 Sungai Kandis,8913,11959
+2019-01-01,Selangor,P.111 Kota Raja,N.50 Kota Kemuning,9164,12730
+2022-01-01,Selangor,P.111 Kota Raja,N.50 Kota Kemuning,9157,12833
+2024-01-01,Selangor,P.111 Kota Raja,N.50 Kota Kemuning,9145,11776
+2019-01-01,Selangor,P.112 Kuala Langat,N.51 Sijangkang,7732,9131
+2022-01-01,Selangor,P.112 Kuala Langat,N.51 Sijangkang,10753,11395
+2024-01-01,Selangor,P.112 Kuala Langat,N.51 Sijangkang,12602,12509
+2019-01-01,Selangor,P.112 Kuala Langat,N.52 Banting,6057,7609
+2022-01-01,Selangor,P.112 Kuala Langat,N.52 Banting,11083,13171
+2024-01-01,Selangor,P.112 Kuala Langat,N.52 Banting,10761,11876
+2019-01-01,Selangor,P.112 Kuala Langat,N.53 Morib,7096,8965
+2022-01-01,Selangor,P.112 Kuala Langat,N.53 Morib,7383,8629
+2024-01-01,Selangor,P.112 Kuala Langat,N.53 Morib,9624,10511
+2019-01-01,Selangor,P.113 Sepang,N.54 Tanjong Sepat,6264,7175
+2022-01-01,Selangor,P.113 Sepang,N.54 Tanjong Sepat,10278,11241
+2024-01-01,Selangor,P.113 Sepang,N.54 Tanjong Sepat,10120,11033
+2019-01-01,Selangor,P.113 Sepang,N.55 Dengkil,8738,12381
+2022-01-01,Selangor,P.113 Sepang,N.55 Dengkil,12755,14023
+2024-01-01,Selangor,P.113 Sepang,N.55 Dengkil,11123,16808
+2019-01-01,Selangor,P.113 Sepang,N.56 Sungai Pelek,8722,10895
+2022-01-01,Selangor,P.113 Sepang,N.56 Sungai Pelek,10606,10332
+2024-01-01,Selangor,P.113 Sepang,N.56 Sungai Pelek,11445,11307
+2019-01-01,Negeri Sembilan,P.126 Jelebu,N.01 Chennah,3106,5051
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.01 Chennah,3538,4539
+2024-01-01,Negeri Sembilan,P.126 Jelebu,N.01 Chennah,3741,4051
+2019-01-01,Negeri Sembilan,P.126 Jelebu,N.02 Pertang,4031,4272
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.02 Pertang,2376,3127
+2024-01-01,Negeri Sembilan,P.126 Jelebu,N.02 Pertang,3622,5041
+2019-01-01,Negeri Sembilan,P.126 Jelebu,N.03 Sungai Lui,4289,5106
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.03 Sungai Lui,3788,4998
+2024-01-01,Negeri Sembilan,P.126 Jelebu,N.03 Sungai Lui,3768,4702
+2019-01-01,Negeri Sembilan,P.126 Jelebu,N.04 Klawang,4990,6171
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.04 Klawang,3971,4633
+2024-01-01,Negeri Sembilan,P.126 Jelebu,N.04 Klawang,3758,4867
+2019-01-01,Negeri Sembilan,P.127 Jempol,N.05 Serting,3876,4471
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.05 Serting,3979,5203
+2024-01-01,Negeri Sembilan,P.127 Jempol,N.05 Serting,4116,6199
+2019-01-01,Negeri Sembilan,P.127 Jempol,N.06 Palong,3302,3827
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.06 Palong,3089,3472
+2024-01-01,Negeri Sembilan,P.127 Jempol,N.06 Palong,4488,4416
+2019-01-01,Negeri Sembilan,P.127 Jempol,N.07 Jeram Padang,3587,5021
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.07 Jeram Padang,3819,4354
+2024-01-01,Negeri Sembilan,P.127 Jempol,N.07 Jeram Padang,4173,4619
+2019-01-01,Negeri Sembilan,P.127 Jempol,N.08 Bahau,3699,5732
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.08 Bahau,4490,5733
+2024-01-01,Negeri Sembilan,P.127 Jempol,N.08 Bahau,4759,6995
+2019-01-01,Negeri Sembilan,P.128 Seremban,N.09 Lenggeng,6215,8265
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.09 Lenggeng,5664,6674
+2024-01-01,Negeri Sembilan,P.128 Seremban,N.09 Lenggeng,4497,5504
+2019-01-01,Negeri Sembilan,P.128 Seremban,N.10 Nilai,6041,7644
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.10 Nilai,6058,7492
+2024-01-01,Negeri Sembilan,P.128 Seremban,N.10 Nilai,6901,9069
+2019-01-01,Negeri Sembilan,P.128 Seremban,N.11 Lobak,4320,6847
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.11 Lobak,5664,8571
+2024-01-01,Negeri Sembilan,P.128 Seremban,N.11 Lobak,4245,6435
+2019-01-01,Negeri Sembilan,P.128 Seremban,N.12 Temiang,5533,8222
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.12 Temiang,5325,7165
+2024-01-01,Negeri Sembilan,P.128 Seremban,N.12 Temiang,5388,6314
+2019-01-01,Negeri Sembilan,P.128 Seremban,N.13 Sikamat,7118,7544
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.13 Sikamat,8212,8595
+2024-01-01,Negeri Sembilan,P.128 Seremban,N.13 Sikamat,6168,7127
+2019-01-01,Negeri Sembilan,P.128 Seremban,N.14 Ampangan,5337,6562
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.14 Ampangan,5801,7567
+2024-01-01,Negeri Sembilan,P.128 Seremban,N.14 Ampangan,5756,6946
+2019-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.15 Juasseh,3817,4951
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.15 Juasseh,3222,4080
+2024-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.15 Juasseh,3996,5104
+2019-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.16 Seri Menanti,3180,4569
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.16 Seri Menanti,2795,3839
+2024-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.16 Seri Menanti,4110,4914
+2019-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.17 Senaling,2998,4294
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.17 Senaling,3846,4506
+2024-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.17 Senaling,3941,5072
+2019-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.18 Pilah,5000,5909
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.18 Pilah,4726,5924
+2024-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.18 Pilah,4602,5331
+2019-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.19 Johol,3146,4432
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.19 Johol,2642,3671
+2024-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.19 Johol,2858,3823
+2019-01-01,Negeri Sembilan,P.130 Rasah,N.20 Labu,5871,8194
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.20 Labu,8430,9519
+2024-01-01,Negeri Sembilan,P.130 Rasah,N.20 Labu,7056,8220
+2019-01-01,Negeri Sembilan,P.130 Rasah,N.21 Bukit Kepayang,7293,9507
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.21 Bukit Kepayang,7229,8763
+2024-01-01,Negeri Sembilan,P.130 Rasah,N.21 Bukit Kepayang,7946,10797
+2019-01-01,Negeri Sembilan,P.130 Rasah,N.22 Rahang,4234,6537
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.22 Rahang,10603,12363
+2024-01-01,Negeri Sembilan,P.130 Rasah,N.22 Rahang,7569,8117
+2019-01-01,Negeri Sembilan,P.130 Rasah,N.23 Mambau,5836,8413
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.23 Mambau,5077,7332
+2024-01-01,Negeri Sembilan,P.130 Rasah,N.23 Mambau,5764,9596
+2019-01-01,Negeri Sembilan,P.130 Rasah,N.24 Seremban Jaya,5282,6857
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.24 Seremban Jaya,5895,7045
+2024-01-01,Negeri Sembilan,P.130 Rasah,N.24 Seremban Jaya,6618,8663
+2019-01-01,Negeri Sembilan,P.131 Rembau,N.25 Paroi,5620,7143
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.25 Paroi,7049,7988
+2024-01-01,Negeri Sembilan,P.131 Rembau,N.25 Paroi,6035,7961
+2019-01-01,Negeri Sembilan,P.131 Rembau,N.26 Chembong,4212,5771
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.26 Chembong,5207,6191
+2024-01-01,Negeri Sembilan,P.131 Rembau,N.26 Chembong,4956,6116
+2019-01-01,Negeri Sembilan,P.131 Rembau,N.27 Rantau,5135,5785
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.27 Rantau,5906,6947
+2024-01-01,Negeri Sembilan,P.131 Rembau,N.27 Rantau,6449,7647
+2019-01-01,Negeri Sembilan,P.131 Rembau,N.28 Kota,3718,4475
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.28 Kota,3843,4287
+2024-01-01,Negeri Sembilan,P.131 Rembau,N.28 Kota,4255,5174
+2019-01-01,Negeri Sembilan,P.132 Port Dickson,N.29 Chuah,5438,6099
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.29 Chuah,3927,5152
+2024-01-01,Negeri Sembilan,P.132 Port Dickson,N.29 Chuah,4240,6699
+2019-01-01,Negeri Sembilan,P.132 Port Dickson,N.30 Lukut,5020,6597
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.30 Lukut,4774,6257
+2024-01-01,Negeri Sembilan,P.132 Port Dickson,N.30 Lukut,5430,6447
+2019-01-01,Negeri Sembilan,P.132 Port Dickson,N.31 Bagan Pinang,4821,5756
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.31 Bagan Pinang,4772,5712
+2024-01-01,Negeri Sembilan,P.132 Port Dickson,N.31 Bagan Pinang,6162,6655
+2019-01-01,Negeri Sembilan,P.132 Port Dickson,N.32 Linggi,4572,5268
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.32 Linggi,4370,4997
+2024-01-01,Negeri Sembilan,P.132 Port Dickson,N.32 Linggi,4074,5057
+2019-01-01,Negeri Sembilan,P.132 Port Dickson,N.33 Sri Tanjung,5102,7750
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.33 Sri Tanjung,5808,7525
+2024-01-01,Negeri Sembilan,P.132 Port Dickson,N.33 Sri Tanjung,5232,6170
+2019-01-01,Negeri Sembilan,P.133 Tampin,N.34 Gemas,3747,5044
+2022-01-01,Negeri Sembilan,P.133 Tampin,N.34 Gemas,3808,4842
+2024-01-01,Negeri Sembilan,P.133 Tampin,N.34 Gemas,4954,5907
+2019-01-01,Negeri Sembilan,P.133 Tampin,N.35 Gemencheh,3708,4770
+2022-01-01,Negeri Sembilan,P.133 Tampin,N.35 Gemencheh,3200,4349
+2024-01-01,Negeri Sembilan,P.133 Tampin,N.35 Gemencheh,4247,6361
+2019-01-01,Negeri Sembilan,P.133 Tampin,N.36 Repah,4875,6437
+2022-01-01,Negeri Sembilan,P.133 Tampin,N.36 Repah,4598,5857
+2024-01-01,Negeri Sembilan,P.133 Tampin,N.36 Repah,4276,4984
+2019-01-01,Melaka,P.134 Masjid Tanah,N.01 Kuala Linggi,5199,6711
+2022-01-01,Melaka,P.134 Masjid Tanah,N.01 Kuala Linggi,4669,6231
+2024-01-01,Melaka,P.134 Masjid Tanah,N.01 Kuala Linggi,7075,7729
+2019-01-01,Melaka,P.134 Masjid Tanah,N.02 Tanjung Bidara,4625,5812
+2022-01-01,Melaka,P.134 Masjid Tanah,N.02 Tanjung Bidara,7239,9762
+2024-01-01,Melaka,P.134 Masjid Tanah,N.02 Tanjung Bidara,5334,6328
+2019-01-01,Melaka,P.134 Masjid Tanah,N.03 Ayer Limau,5929,6836
+2022-01-01,Melaka,P.134 Masjid Tanah,N.03 Ayer Limau,4331,6004
+2024-01-01,Melaka,P.134 Masjid Tanah,N.03 Ayer Limau,6475,7765
+2019-01-01,Melaka,P.134 Masjid Tanah,N.04 Lendu,6995,9473
+2022-01-01,Melaka,P.134 Masjid Tanah,N.04 Lendu,4996,6463
+2024-01-01,Melaka,P.134 Masjid Tanah,N.04 Lendu,7234,8600
+2019-01-01,Melaka,P.134 Masjid Tanah,N.05 Taboh Naning,5951,5706
+2022-01-01,Melaka,P.134 Masjid Tanah,N.05 Taboh Naning,5760,6747
+2024-01-01,Melaka,P.134 Masjid Tanah,N.05 Taboh Naning,5290,6236
+2019-01-01,Melaka,P.135 Alor Gajah,N.06 Rembia,5989,7020
+2022-01-01,Melaka,P.135 Alor Gajah,N.06 Rembia,5063,6469
+2024-01-01,Melaka,P.135 Alor Gajah,N.06 Rembia,5602,6917
+2019-01-01,Melaka,P.135 Alor Gajah,N.07 Gadek,4738,6596
+2022-01-01,Melaka,P.135 Alor Gajah,N.07 Gadek,4277,4683
+2024-01-01,Melaka,P.135 Alor Gajah,N.07 Gadek,6181,7203
+2019-01-01,Melaka,P.135 Alor Gajah,N.08 Machap Jaya,7376,7553
+2022-01-01,Melaka,P.135 Alor Gajah,N.08 Machap Jaya,5056,5573
+2024-01-01,Melaka,P.135 Alor Gajah,N.08 Machap Jaya,5349,6333
+2019-01-01,Melaka,P.135 Alor Gajah,N.09 Durian Tunggal,6846,8357
+2022-01-01,Melaka,P.135 Alor Gajah,N.09 Durian Tunggal,7306,8730
+2024-01-01,Melaka,P.135 Alor Gajah,N.09 Durian Tunggal,7231,10135
+2019-01-01,Melaka,P.135 Alor Gajah,N.10 Asahan,4557,6197
+2022-01-01,Melaka,P.135 Alor Gajah,N.10 Asahan,4970,5986
+2024-01-01,Melaka,P.135 Alor Gajah,N.10 Asahan,5886,7403
+2019-01-01,Melaka,P.136 Tangga Batu,N.11 Sungai Udang,6994,8627
+2022-01-01,Melaka,P.136 Tangga Batu,N.11 Sungai Udang,7465,8435
+2024-01-01,Melaka,P.136 Tangga Batu,N.11 Sungai Udang,6543,8132
+2019-01-01,Melaka,P.136 Tangga Batu,N.12 Pantai Kundor,5169,7274
+2022-01-01,Melaka,P.136 Tangga Batu,N.12 Pantai Kundor,5445,7250
+2024-01-01,Melaka,P.136 Tangga Batu,N.12 Pantai Kundor,5690,7005
+2019-01-01,Melaka,P.136 Tangga Batu,N.13 Paya Rumput,6679,8558
+2022-01-01,Melaka,P.136 Tangga Batu,N.13 Paya Rumput,6957,8767
+2024-01-01,Melaka,P.136 Tangga Batu,N.13 Paya Rumput,9656,10681
+2019-01-01,Melaka,P.136 Tangga Batu,N.14 Kelebang,5700,6536
+2022-01-01,Melaka,P.136 Tangga Batu,N.14 Kelebang,5064,5966
+2024-01-01,Melaka,P.136 Tangga Batu,N.14 Kelebang,5101,7586
+2019-01-01,Melaka,P.137 Hang Tuah Jaya,N.15 Pengkalan Batu,5674,7065
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.15 Pengkalan Batu,5726,7969
+2024-01-01,Melaka,P.137 Hang Tuah Jaya,N.15 Pengkalan Batu,7724,10391
+2019-01-01,Melaka,P.137 Hang Tuah Jaya,N.16 Ayer Keroh,6815,9063
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.16 Ayer Keroh,8428,9815
+2024-01-01,Melaka,P.137 Hang Tuah Jaya,N.16 Ayer Keroh,8811,11096
+2019-01-01,Melaka,P.137 Hang Tuah Jaya,N.17 Bukit Katil,7243,10616
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.17 Bukit Katil,6362,7530
+2024-01-01,Melaka,P.137 Hang Tuah Jaya,N.17 Bukit Katil,7998,8881
+2019-01-01,Melaka,P.137 Hang Tuah Jaya,N.18 Ayer Molek,5961,7544
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.18 Ayer Molek,6990,8757
+2024-01-01,Melaka,P.137 Hang Tuah Jaya,N.18 Ayer Molek,7872,9041
+2019-01-01,Melaka,P.138 Kota Melaka,N.19 Kesidang,6258,7370
+2022-01-01,Melaka,P.138 Kota Melaka,N.19 Kesidang,7174,9595
+2024-01-01,Melaka,P.138 Kota Melaka,N.19 Kesidang,7888,10361
+2019-01-01,Melaka,P.138 Kota Melaka,N.20 Kota Laksamana,6045,8451
+2022-01-01,Melaka,P.138 Kota Melaka,N.20 Kota Laksamana,5612,6973
+2024-01-01,Melaka,P.138 Kota Melaka,N.20 Kota Laksamana,4604,6398
+2019-01-01,Melaka,P.138 Kota Melaka,N.21 Duyong,5953,6983
+2022-01-01,Melaka,P.138 Kota Melaka,N.21 Duyong,5719,7992
+2024-01-01,Melaka,P.138 Kota Melaka,N.21 Duyong,6194,8175
+2019-01-01,Melaka,P.138 Kota Melaka,N.22 Bandar Hilir,6153,6820
+2022-01-01,Melaka,P.138 Kota Melaka,N.22 Bandar Hilir,4856,5785
+2024-01-01,Melaka,P.138 Kota Melaka,N.22 Bandar Hilir,6958,8620
+2019-01-01,Melaka,P.138 Kota Melaka,N.23 Telok Mas,6140,9154
+2022-01-01,Melaka,P.138 Kota Melaka,N.23 Telok Mas,7507,11291
+2024-01-01,Melaka,P.138 Kota Melaka,N.23 Telok Mas,5852,7301
+2019-01-01,Melaka,P.139 Jasin,N.24 Bemban,6258,7684
+2022-01-01,Melaka,P.139 Jasin,N.24 Bemban,6780,8027
+2024-01-01,Melaka,P.139 Jasin,N.24 Bemban,6062,7681
+2019-01-01,Melaka,P.139 Jasin,N.25 Rim,4885,7857
+2022-01-01,Melaka,P.139 Jasin,N.25 Rim,5134,6222
+2024-01-01,Melaka,P.139 Jasin,N.25 Rim,6415,7624
+2019-01-01,Melaka,P.139 Jasin,N.26 Serkam,5243,6231
+2022-01-01,Melaka,P.139 Jasin,N.26 Serkam,6368,7814
+2024-01-01,Melaka,P.139 Jasin,N.26 Serkam,8138,9540
+2019-01-01,Melaka,P.139 Jasin,N.27 Merlimau,5700,7909
+2022-01-01,Melaka,P.139 Jasin,N.27 Merlimau,6200,6832
+2024-01-01,Melaka,P.139 Jasin,N.27 Merlimau,5947,6615
+2019-01-01,Melaka,P.139 Jasin,N.28 Sungai Rambai,4112,5339
+2022-01-01,Melaka,P.139 Jasin,N.28 Sungai Rambai,5836,6750
+2024-01-01,Melaka,P.139 Jasin,N.28 Sungai Rambai,7227,8094
+2019-01-01,Johor,P.140 Segamat,N.01 Buloh Kasap,5645,6399
+2022-01-01,Johor,P.140 Segamat,N.01 Buloh Kasap,4339,5826
+2024-01-01,Johor,P.140 Segamat,N.01 Buloh Kasap,5457,6575
+2019-01-01,Johor,P.140 Segamat,N.02 Jementah,5449,6726
+2022-01-01,Johor,P.140 Segamat,N.02 Jementah,5591,7284
+2024-01-01,Johor,P.140 Segamat,N.02 Jementah,7528,8672
+2019-01-01,Johor,P.141 Sekijang,N.03 Pemanis,5931,6979
+2022-01-01,Johor,P.141 Sekijang,N.03 Pemanis,6377,6744
+2024-01-01,Johor,P.141 Sekijang,N.03 Pemanis,6073,6230
+2019-01-01,Johor,P.141 Sekijang,N.04 Kemelah,4829,5984
+2022-01-01,Johor,P.141 Sekijang,N.04 Kemelah,5175,6719
+2024-01-01,Johor,P.141 Sekijang,N.04 Kemelah,6227,7077
+2019-01-01,Johor,P.142 Labis,N.05 Tenang,5631,5887
+2022-01-01,Johor,P.142 Labis,N.05 Tenang,6083,6256
+2024-01-01,Johor,P.142 Labis,N.05 Tenang,7882,8755
+2019-01-01,Johor,P.142 Labis,N.06 Bekok,5983,6695
+2022-01-01,Johor,P.142 Labis,N.06 Bekok,4373,5605
+2024-01-01,Johor,P.142 Labis,N.06 Bekok,5095,6502
+2019-01-01,Johor,P.143 Pagoh,N.07 Bukit Kepong,4413,5394
+2022-01-01,Johor,P.143 Pagoh,N.07 Bukit Kepong,4730,6505
+2024-01-01,Johor,P.143 Pagoh,N.07 Bukit Kepong,6730,7210
+2019-01-01,Johor,P.143 Pagoh,N.08 Bukit Pasir,5336,6122
+2022-01-01,Johor,P.143 Pagoh,N.08 Bukit Pasir,4913,5811
+2024-01-01,Johor,P.143 Pagoh,N.08 Bukit Pasir,5705,6524
+2019-01-01,Johor,P.144 Ledang,N.09 Gambir,5490,6151
+2022-01-01,Johor,P.144 Ledang,N.09 Gambir,6763,8279
+2024-01-01,Johor,P.144 Ledang,N.09 Gambir,5302,6624
+2019-01-01,Johor,P.144 Ledang,N.10 Tangkak,6101,7036
+2022-01-01,Johor,P.144 Ledang,N.10 Tangkak,5698,7205
+2024-01-01,Johor,P.144 Ledang,N.10 Tangkak,7023,7765
+2019-01-01,Johor,P.144 Ledang,N.11 Serom,5440,6848
+2022-01-01,Johor,P.144 Ledang,N.11 Serom,5107,6281
+2024-01-01,Johor,P.144 Ledang,N.11 Serom,6681,7753
+2019-01-01,Johor,P.145 Bakri,N.12 Bentayan,6398,8427
+2022-01-01,Johor,P.145 Bakri,N.12 Bentayan,6653,9155
+2024-01-01,Johor,P.145 Bakri,N.12 Bentayan,7792,9384
+2019-01-01,Johor,P.145 Bakri,N.13 Simpang Jeram,6682,7951
+2022-01-01,Johor,P.145 Bakri,N.13 Simpang Jeram,7419,9747
+2024-01-01,Johor,P.145 Bakri,N.13 Simpang Jeram,6662,7768
+2019-01-01,Johor,P.145 Bakri,N.14 Bukit Naning,5199,6988
+2022-01-01,Johor,P.145 Bakri,N.14 Bukit Naning,5059,8533
+2024-01-01,Johor,P.145 Bakri,N.14 Bukit Naning,7495,9131
+2019-01-01,Johor,P.146 Muar,N.15 Maharani,6394,8169
+2022-01-01,Johor,P.146 Muar,N.15 Maharani,5575,6993
+2024-01-01,Johor,P.146 Muar,N.15 Maharani,9383,10086
+2019-01-01,Johor,P.146 Muar,N.16 Sungai Balang,6340,7038
+2022-01-01,Johor,P.146 Muar,N.16 Sungai Balang,5616,6368
+2024-01-01,Johor,P.146 Muar,N.16 Sungai Balang,7534,8673
+2019-01-01,Johor,P.147 Parit Sulong,N.17 Semerah,5809,7109
+2022-01-01,Johor,P.147 Parit Sulong,N.17 Semerah,5941,6853
+2024-01-01,Johor,P.147 Parit Sulong,N.17 Semerah,7815,8308
+2019-01-01,Johor,P.147 Parit Sulong,N.18 Sri Medan,5347,6739
+2022-01-01,Johor,P.147 Parit Sulong,N.18 Sri Medan,5646,6832
+2024-01-01,Johor,P.147 Parit Sulong,N.18 Sri Medan,8104,9690
+2019-01-01,Johor,P.148 Ayer Hitam,N.19 Yong Peng,6213,6501
+2022-01-01,Johor,P.148 Ayer Hitam,N.19 Yong Peng,6076,6729
+2024-01-01,Johor,P.148 Ayer Hitam,N.19 Yong Peng,5208,6439
+2019-01-01,Johor,P.148 Ayer Hitam,N.20 Semarang,6067,6389
+2022-01-01,Johor,P.148 Ayer Hitam,N.20 Semarang,7620,8214
+2024-01-01,Johor,P.148 Ayer Hitam,N.20 Semarang,8028,9224
+2019-01-01,Johor,P.149 Sri Gading,N.21 Parit Yaani,6674,7795
+2022-01-01,Johor,P.149 Sri Gading,N.21 Parit Yaani,6776,7385
+2024-01-01,Johor,P.149 Sri Gading,N.21 Parit Yaani,8115,9961
+2019-01-01,Johor,P.149 Sri Gading,N.22 Parit Raja,7482,8721
+2022-01-01,Johor,P.149 Sri Gading,N.22 Parit Raja,5430,6290
+2024-01-01,Johor,P.149 Sri Gading,N.22 Parit Raja,7910,9145
+2019-01-01,Johor,P.150 Batu Pahat,N.23 Penggaram,6691,7483
+2022-01-01,Johor,P.150 Batu Pahat,N.23 Penggaram,7300,8792
+2024-01-01,Johor,P.150 Batu Pahat,N.23 Penggaram,7068,9114
+2019-01-01,Johor,P.150 Batu Pahat,N.24 Senggarang,5439,6952
+2022-01-01,Johor,P.150 Batu Pahat,N.24 Senggarang,6390,7532
+2024-01-01,Johor,P.150 Batu Pahat,N.24 Senggarang,7395,8857
+2019-01-01,Johor,P.150 Batu Pahat,N.25 Rengit,5548,6603
+2022-01-01,Johor,P.150 Batu Pahat,N.25 Rengit,5820,6756
+2024-01-01,Johor,P.150 Batu Pahat,N.25 Rengit,7925,8487
+2019-01-01,Johor,P.151 Simpang Renggam,N.26 Machap,4532,5671
+2022-01-01,Johor,P.151 Simpang Renggam,N.26 Machap,4903,5710
+2024-01-01,Johor,P.151 Simpang Renggam,N.26 Machap,6469,7188
+2019-01-01,Johor,P.151 Simpang Renggam,N.27 Layang-Layang,3660,4386
+2022-01-01,Johor,P.151 Simpang Renggam,N.27 Layang-Layang,4422,5169
+2024-01-01,Johor,P.151 Simpang Renggam,N.27 Layang-Layang,5886,6274
+2019-01-01,Johor,P.152 Kluang,N.28 Mengkibol,5340,6390
+2022-01-01,Johor,P.152 Kluang,N.28 Mengkibol,5866,6886
+2024-01-01,Johor,P.152 Kluang,N.28 Mengkibol,6661,6985
+2019-01-01,Johor,P.152 Kluang,N.29 Mahkota,5207,6174
+2022-01-01,Johor,P.152 Kluang,N.29 Mahkota,5265,7112
+2024-01-01,Johor,P.152 Kluang,N.29 Mahkota,6116,6504
+2019-01-01,Johor,P.153 Sembrong,N.30 Paloh,4156,4976
+2022-01-01,Johor,P.153 Sembrong,N.30 Paloh,4679,5379
+2024-01-01,Johor,P.153 Sembrong,N.30 Paloh,4664,4789
+2019-01-01,Johor,P.153 Sembrong,N.31 Kahang,4661,5406
+2022-01-01,Johor,P.153 Sembrong,N.31 Kahang,5629,6394
+2024-01-01,Johor,P.153 Sembrong,N.31 Kahang,5731,6342
+2019-01-01,Johor,P.154 Mersing,N.32 Endau,3096,3865
+2022-01-01,Johor,P.154 Mersing,N.32 Endau,4042,4911
+2024-01-01,Johor,P.154 Mersing,N.32 Endau,5039,5845
+2019-01-01,Johor,P.154 Mersing,N.33 Tenggaroh,4288,5445
+2022-01-01,Johor,P.154 Mersing,N.33 Tenggaroh,4937,5795
+2024-01-01,Johor,P.154 Mersing,N.33 Tenggaroh,5605,6261
+2019-01-01,Johor,P.155 Tenggara,N.34 Panti,5366,7107
+2022-01-01,Johor,P.155 Tenggara,N.34 Panti,6203,7776
+2024-01-01,Johor,P.155 Tenggara,N.34 Panti,6051,6878
+2019-01-01,Johor,P.155 Tenggara,N.35 Pasir Raja,6428,7987
+2022-01-01,Johor,P.155 Tenggara,N.35 Pasir Raja,7525,9431
+2024-01-01,Johor,P.155 Tenggara,N.35 Pasir Raja,7331,8944
+2019-01-01,Johor,P.156 Kota Tinggi,N.36 Sedili,3529,5412
+2022-01-01,Johor,P.156 Kota Tinggi,N.36 Sedili,4469,5814
+2024-01-01,Johor,P.156 Kota Tinggi,N.36 Sedili,4938,5518
+2019-01-01,Johor,P.156 Kota Tinggi,N.37 Johor Lama,5512,6275
+2022-01-01,Johor,P.156 Kota Tinggi,N.37 Johor Lama,6503,7212
+2024-01-01,Johor,P.156 Kota Tinggi,N.37 Johor Lama,5571,6779
+2019-01-01,Johor,P.157 Pengerang,N.38 Penawar,5878,7520
+2022-01-01,Johor,P.157 Pengerang,N.38 Penawar,6514,7721
+2024-01-01,Johor,P.157 Pengerang,N.38 Penawar,6990,9115
+2019-01-01,Johor,P.157 Pengerang,N.39 Tanjung Surat,5457,6423
+2022-01-01,Johor,P.157 Pengerang,N.39 Tanjung Surat,5555,6431
+2024-01-01,Johor,P.157 Pengerang,N.39 Tanjung Surat,6161,12846
+2019-01-01,Johor,P.158 Tebrau,N.40 Tiram,5646,6688
+2022-01-01,Johor,P.158 Tebrau,N.40 Tiram,6764,8586
+2024-01-01,Johor,P.158 Tebrau,N.40 Tiram,7926,9144
+2019-01-01,Johor,P.158 Tebrau,N.41 Puteri Wangsa,8235,10130
+2022-01-01,Johor,P.158 Tebrau,N.41 Puteri Wangsa,9354,11237
+2024-01-01,Johor,P.158 Tebrau,N.41 Puteri Wangsa,9409,11262
+2019-01-01,Johor,P.159 Pasir Gudang,N.42 Johor Jaya,7142,9415
+2022-01-01,Johor,P.159 Pasir Gudang,N.42 Johor Jaya,8575,10198
+2024-01-01,Johor,P.159 Pasir Gudang,N.42 Johor Jaya,8188,11155
+2019-01-01,Johor,P.159 Pasir Gudang,N.43 Permas,6528,7893
+2022-01-01,Johor,P.159 Pasir Gudang,N.43 Permas,6862,8975
+2024-01-01,Johor,P.159 Pasir Gudang,N.43 Permas,8430,10887
+2019-01-01,Johor,P.160 Johor Bahru,N.44 Larkin,6886,10306
+2022-01-01,Johor,P.160 Johor Bahru,N.44 Larkin,7222,9016
+2024-01-01,Johor,P.160 Johor Bahru,N.44 Larkin,7733,9118
+2019-01-01,Johor,P.160 Johor Bahru,N.45 Stulang,6353,9653
+2022-01-01,Johor,P.160 Johor Bahru,N.45 Stulang,7185,8684
+2024-01-01,Johor,P.160 Johor Bahru,N.45 Stulang,10014,11891
+2019-01-01,Johor,P.161 Pulai,N.46 Perling,9373,10637
+2022-01-01,Johor,P.161 Pulai,N.46 Perling,8923,10649
+2024-01-01,Johor,P.161 Pulai,N.46 Perling,10764,13643
+2019-01-01,Johor,P.161 Pulai,N.47 Kempas,6284,6893
+2022-01-01,Johor,P.161 Pulai,N.47 Kempas,8508,11259
+2024-01-01,Johor,P.161 Pulai,N.47 Kempas,8431,9559
+2019-01-01,Johor,P.162 Iskandar Puteri,N.48 Skudai,6699,8867
+2022-01-01,Johor,P.162 Iskandar Puteri,N.48 Skudai,7442,8623
+2024-01-01,Johor,P.162 Iskandar Puteri,N.48 Skudai,8183,9959
+2019-01-01,Johor,P.162 Iskandar Puteri,N.49 Kota Iskandar,8928,11027
+2022-01-01,Johor,P.162 Iskandar Puteri,N.49 Kota Iskandar,8990,10093
+2024-01-01,Johor,P.162 Iskandar Puteri,N.49 Kota Iskandar,10421,11644
+2019-01-01,Johor,P.163 Kulai,N.50 Bukit Permai,7250,9105
+2022-01-01,Johor,P.163 Kulai,N.50 Bukit Permai,8112,9656
+2024-01-01,Johor,P.163 Kulai,N.50 Bukit Permai,9374,11693
+2019-01-01,Johor,P.163 Kulai,N.51 Bukit Batu,5848,7745
+2022-01-01,Johor,P.163 Kulai,N.51 Bukit Batu,6157,7628
+2024-01-01,Johor,P.163 Kulai,N.51 Bukit Batu,7688,8607
+2019-01-01,Johor,P.163 Kulai,N.52 Senai,7072,7772
+2022-01-01,Johor,P.163 Kulai,N.52 Senai,7647,10253
+2024-01-01,Johor,P.163 Kulai,N.52 Senai,8114,9871
+2019-01-01,Johor,P.164 Pontian,N.53 Benut,4697,5434
+2022-01-01,Johor,P.164 Pontian,N.53 Benut,4513,5514
+2024-01-01,Johor,P.164 Pontian,N.53 Benut,4689,5740
+2019-01-01,Johor,P.164 Pontian,N.54 Pulai Sebatang,6345,7080
+2022-01-01,Johor,P.164 Pontian,N.54 Pulai Sebatang,5334,6706
+2024-01-01,Johor,P.164 Pontian,N.54 Pulai Sebatang,5512,6605
+2019-01-01,Johor,P.165 Tanjung Piai,N.55 Pekan Nanas,6490,7806
+2022-01-01,Johor,P.165 Tanjung Piai,N.55 Pekan Nanas,6876,8297
+2024-01-01,Johor,P.165 Tanjung Piai,N.55 Pekan Nanas,7202,8362
+2019-01-01,Johor,P.165 Tanjung Piai,N.56 Kukup,4586,5983
+2022-01-01,Johor,P.165 Tanjung Piai,N.56 Kukup,4519,6400
+2024-01-01,Johor,P.165 Tanjung Piai,N.56 Kukup,5404,6626
+2019-01-01,Sabah,P.167 Kudat,N.01 Banggi,3966,2592
+2022-01-01,Sabah,P.167 Kudat,N.01 Banggi,2614,3093
+2024-01-01,Sabah,P.167 Kudat,N.01 Banggi,2565,3162
+2019-01-01,Sabah,P.167 Kudat,N.02 Bengkoka,1747,2117
+2022-01-01,Sabah,P.167 Kudat,N.02 Bengkoka,2311,2799
+2024-01-01,Sabah,P.167 Kudat,N.02 Bengkoka,2281,2927
+2019-01-01,Sabah,P.167 Kudat,N.03 Pitas,2120,3876
+2022-01-01,Sabah,P.167 Kudat,N.03 Pitas,2399,3833
+2024-01-01,Sabah,P.167 Kudat,N.03 Pitas,3445,5367
+2019-01-01,Sabah,P.167 Kudat,N.04 Tanjong Kapor,2971,4460
+2022-01-01,Sabah,P.167 Kudat,N.04 Tanjong Kapor,3745,4822
+2024-01-01,Sabah,P.167 Kudat,N.04 Tanjong Kapor,3689,4742
+2019-01-01,Sabah,P.168 Kota Marudu,N.05 Matunggong,2124,3125
+2022-01-01,Sabah,P.168 Kota Marudu,N.05 Matunggong,2420,3291
+2024-01-01,Sabah,P.168 Kota Marudu,N.05 Matunggong,2512,4060
+2019-01-01,Sabah,P.168 Kota Marudu,N.06 Bandau,2328,3356
+2022-01-01,Sabah,P.168 Kota Marudu,N.06 Bandau,2661,3897
+2024-01-01,Sabah,P.168 Kota Marudu,N.06 Bandau,2877,4696
+2019-01-01,Sabah,P.168 Kota Marudu,N.07 Tandek,3286,4795
+2022-01-01,Sabah,P.168 Kota Marudu,N.07 Tandek,2824,4172
+2024-01-01,Sabah,P.168 Kota Marudu,N.07 Tandek,3891,5377
+2019-01-01,Sabah,P.169 Kota Belud,N.08 Pintasan,1973,3081
+2022-01-01,Sabah,P.169 Kota Belud,N.08 Pintasan,2358,3764
+2024-01-01,Sabah,P.169 Kota Belud,N.08 Pintasan,4249,5281
+2019-01-01,Sabah,P.169 Kota Belud,N.09 Tempasuk,3316,4656
+2022-01-01,Sabah,P.169 Kota Belud,N.09 Tempasuk,4555,6307
+2024-01-01,Sabah,P.169 Kota Belud,N.09 Tempasuk,3170,5170
+2019-01-01,Sabah,P.169 Kota Belud,N.10 Usukan,3779,5045
+2022-01-01,Sabah,P.169 Kota Belud,N.10 Usukan,3917,5829
+2024-01-01,Sabah,P.169 Kota Belud,N.10 Usukan,4032,5498
+2019-01-01,Sabah,P.169 Kota Belud,N.11 Kadamaian,2570,3914
+2022-01-01,Sabah,P.169 Kota Belud,N.11 Kadamaian,3136,4040
+2024-01-01,Sabah,P.169 Kota Belud,N.11 Kadamaian,3419,4265
+2019-01-01,Sabah,P.170 Tuaran,N.12 Sulaman,4719,6266
+2022-01-01,Sabah,P.170 Tuaran,N.12 Sulaman,4086,5412
+2024-01-01,Sabah,P.170 Tuaran,N.12 Sulaman,4689,6113
+2019-01-01,Sabah,P.170 Tuaran,N.13 Pantai Dalit,4136,5040
+2022-01-01,Sabah,P.170 Tuaran,N.13 Pantai Dalit,4053,5146
+2024-01-01,Sabah,P.170 Tuaran,N.13 Pantai Dalit,4306,5232
+2019-01-01,Sabah,P.170 Tuaran,N.14 Tamparuli,3736,5183
+2022-01-01,Sabah,P.170 Tuaran,N.14 Tamparuli,3677,5272
+2024-01-01,Sabah,P.170 Tuaran,N.14 Tamparuli,4326,5263
+2019-01-01,Sabah,P.170 Tuaran,N.15 Kiulu,2690,3567
+2022-01-01,Sabah,P.170 Tuaran,N.15 Kiulu,3698,4421
+2024-01-01,Sabah,P.170 Tuaran,N.15 Kiulu,3475,4490
+2019-01-01,Sabah,P.171 Sepanggar,N.16 Karambunai,5346,6874
+2022-01-01,Sabah,P.171 Sepanggar,N.16 Karambunai,5129,6979
+2024-01-01,Sabah,P.171 Sepanggar,N.16 Karambunai,5118,7246
+2019-01-01,Sabah,P.171 Sepanggar,N.17 Darau,5809,7231
+2022-01-01,Sabah,P.171 Sepanggar,N.17 Darau,5235,6598
+2024-01-01,Sabah,P.171 Sepanggar,N.17 Darau,6483,7882
+2019-01-01,Sabah,P.171 Sepanggar,N.18 Inanam,5408,7198
+2022-01-01,Sabah,P.171 Sepanggar,N.18 Inanam,5835,6843
+2024-01-01,Sabah,P.171 Sepanggar,N.18 Inanam,5543,7333
+2019-01-01,Sabah,P.172 Kota Kinabalu,N.19 Likas,7600,8928
+2022-01-01,Sabah,P.172 Kota Kinabalu,N.19 Likas,8807,13301
+2024-01-01,Sabah,P.172 Kota Kinabalu,N.19 Likas,14057,18322
+2019-01-01,Sabah,P.172 Kota Kinabalu,N.20 Api-Api,5925,7546
+2022-01-01,Sabah,P.172 Kota Kinabalu,N.20 Api-Api,9857,11022
+2024-01-01,Sabah,P.172 Kota Kinabalu,N.20 Api-Api,8622,8743
+2019-01-01,Sabah,P.172 Kota Kinabalu,N.21 Luyang,7440,9273
+2022-01-01,Sabah,P.172 Kota Kinabalu,N.21 Luyang,7816,11226
+2024-01-01,Sabah,P.172 Kota Kinabalu,N.21 Luyang,7715,9637
+2019-01-01,Sabah,P.173 Putatan,N.22 Tanjung Aru,5571,8657
+2022-01-01,Sabah,P.173 Putatan,N.22 Tanjung Aru,4567,11761
+2024-01-01,Sabah,P.173 Putatan,N.22 Tanjung Aru,5142,7481
+2019-01-01,Sabah,P.173 Putatan,N.23 Petagas,4007,5387
+2022-01-01,Sabah,P.173 Putatan,N.23 Petagas,5455,7148
+2024-01-01,Sabah,P.173 Putatan,N.23 Petagas,5218,6328
+2019-01-01,Sabah,P.173 Putatan,N.24 Tanjung Keramat,6244,7370
+2022-01-01,Sabah,P.173 Putatan,N.24 Tanjung Keramat,6238,7058
+2024-01-01,Sabah,P.173 Putatan,N.24 Tanjung Keramat,6928,8055
+2019-01-01,Sabah,P.174 Penampang,N.25 Kapayan,5669,6703
+2022-01-01,Sabah,P.174 Penampang,N.25 Kapayan,6275,7717
+2024-01-01,Sabah,P.174 Penampang,N.25 Kapayan,6142,8097
+2019-01-01,Sabah,P.174 Penampang,N.26 Moyog,5336,6502
+2022-01-01,Sabah,P.174 Penampang,N.26 Moyog,6288,7388
+2024-01-01,Sabah,P.174 Penampang,N.26 Moyog,5461,6758
+2019-01-01,Sabah,P.175 Papar,N.27 Limbahau,4686,5976
+2022-01-01,Sabah,P.175 Papar,N.27 Limbahau,4248,5731
+2024-01-01,Sabah,P.175 Papar,N.27 Limbahau,4647,5248
+2019-01-01,Sabah,P.175 Papar,N.28 Kawang,4665,5762
+2022-01-01,Sabah,P.175 Papar,N.28 Kawang,5241,6179
+2024-01-01,Sabah,P.175 Papar,N.28 Kawang,4754,5846
+2019-01-01,Sabah,P.175 Papar,N.29 Pantai Manis,4634,5910
+2022-01-01,Sabah,P.175 Papar,N.29 Pantai Manis,6107,7115
+2024-01-01,Sabah,P.175 Papar,N.29 Pantai Manis,5500,6555
+2019-01-01,Sabah,P.176 Kimanis,N.30 Bongawan,3743,5216
+2022-01-01,Sabah,P.176 Kimanis,N.30 Bongawan,3614,4679
+2024-01-01,Sabah,P.176 Kimanis,N.30 Bongawan,4045,5418
+2019-01-01,Sabah,P.176 Kimanis,N.31 Membakut,4280,5590
+2022-01-01,Sabah,P.176 Kimanis,N.31 Membakut,3443,4011
+2024-01-01,Sabah,P.176 Kimanis,N.31 Membakut,1794,4401
+2019-01-01,Sabah,P.177 Beaufort,N.32 Klias,3334,4569
+2022-01-01,Sabah,P.177 Beaufort,N.32 Klias,3988,4719
+2024-01-01,Sabah,P.177 Beaufort,N.32 Klias,4297,5743
+2019-01-01,Sabah,P.177 Beaufort,N.33 Kuala Penyu,2949,4275
+2022-01-01,Sabah,P.177 Beaufort,N.33 Kuala Penyu,3487,4311
+2024-01-01,Sabah,P.177 Beaufort,N.33 Kuala Penyu,3733,4750
+2019-01-01,Sabah,P.178 Sipitang,N.34 Lumadan,3959,4885
+2022-01-01,Sabah,P.178 Sipitang,N.34 Lumadan,4688,5469
+2024-01-01,Sabah,P.178 Sipitang,N.34 Lumadan,3389,4041
+2019-01-01,Sabah,P.178 Sipitang,N.35 Sindumin,3944,5271
+2022-01-01,Sabah,P.178 Sipitang,N.35 Sindumin,4182,5479
+2024-01-01,Sabah,P.178 Sipitang,N.35 Sindumin,4606,5548
+2019-01-01,Sabah,P.179 Ranau,N.36 Kundasang,2943,4408
+2022-01-01,Sabah,P.179 Ranau,N.36 Kundasang,3675,4846
+2024-01-01,Sabah,P.179 Ranau,N.36 Kundasang,2086,2585
+2019-01-01,Sabah,P.179 Ranau,N.37 Karanaan,4484,5817
+2022-01-01,Sabah,P.179 Ranau,N.37 Karanaan,5237,6647
+2024-01-01,Sabah,P.179 Ranau,N.37 Karanaan,3616,5998
+2019-01-01,Sabah,P.179 Ranau,N.38 Paginatan,3027,4020
+2022-01-01,Sabah,P.179 Ranau,N.38 Paginatan,4244,5148
+2024-01-01,Sabah,P.179 Ranau,N.38 Paginatan,5537,7315
+2019-01-01,Sabah,P.180 Keningau,N.39 Tambunan,3581,4826
+2022-01-01,Sabah,P.180 Keningau,N.39 Tambunan,4055,5113
+2024-01-01,Sabah,P.180 Keningau,N.39 Tambunan,4854,5361
+2019-01-01,Sabah,P.180 Keningau,N.40 Bingkor,4529,5904
+2022-01-01,Sabah,P.180 Keningau,N.40 Bingkor,4726,6177
+2024-01-01,Sabah,P.180 Keningau,N.40 Bingkor,4904,5574
+2019-01-01,Sabah,P.180 Keningau,N.41 Liawan,4184,5677
+2022-01-01,Sabah,P.180 Keningau,N.41 Liawan,4459,6296
+2024-01-01,Sabah,P.180 Keningau,N.41 Liawan,4978,6838
+2019-01-01,Sabah,P.181 Tenom,N.42 Melalap,4285,5394
+2022-01-01,Sabah,P.181 Tenom,N.42 Melalap,4379,5423
+2024-01-01,Sabah,P.181 Tenom,N.42 Melalap,4772,5991
+2019-01-01,Sabah,P.181 Tenom,N.43 Kemabong,3029,3791
+2022-01-01,Sabah,P.181 Tenom,N.43 Kemabong,3889,5082
+2024-01-01,Sabah,P.181 Tenom,N.43 Kemabong,3828,4691
+2019-01-01,Sabah,P.182 Pensiangan,N.44 Tulid,3636,4267
+2022-01-01,Sabah,P.182 Pensiangan,N.44 Tulid,5690,7296
+2024-01-01,Sabah,P.182 Pensiangan,N.44 Tulid,4566,6052
+2019-01-01,Sabah,P.182 Pensiangan,N.45 Sook,3732,4330
+2022-01-01,Sabah,P.182 Pensiangan,N.45 Sook,3149,3880
+2024-01-01,Sabah,P.182 Pensiangan,N.45 Sook,4716,5693
+2019-01-01,Sabah,P.182 Pensiangan,N.46 Nabawan,3692,4430
+2022-01-01,Sabah,P.182 Pensiangan,N.46 Nabawan,4072,4886
+2024-01-01,Sabah,P.182 Pensiangan,N.46 Nabawan,4224,4942
+2019-01-01,Sabah,P.183 Beluran,N.47 Telupid,3158,4643
+2022-01-01,Sabah,P.183 Beluran,N.47 Telupid,3508,4560
+2024-01-01,Sabah,P.183 Beluran,N.47 Telupid,4696,5162
+2019-01-01,Sabah,P.183 Beluran,N.48 Sugut,2538,3352
+2022-01-01,Sabah,P.183 Beluran,N.48 Sugut,2753,3972
+2024-01-01,Sabah,P.183 Beluran,N.48 Sugut,3212,4272
+2019-01-01,Sabah,P.183 Beluran,N.49 Labuk,3064,4383
+2022-01-01,Sabah,P.183 Beluran,N.49 Labuk,3810,5257
+2024-01-01,Sabah,P.183 Beluran,N.49 Labuk,4735,5285
+2019-01-01,Sabah,P.184 Libaran,N.50 Gum-Gum,3753,5074
+2022-01-01,Sabah,P.184 Libaran,N.50 Gum-Gum,4028,4940
+2024-01-01,Sabah,P.184 Libaran,N.50 Gum-Gum,4412,5895
+2019-01-01,Sabah,P.184 Libaran,N.51 Sungai Manila,4250,5223
+2022-01-01,Sabah,P.184 Libaran,N.51 Sungai Manila,4501,5027
+2024-01-01,Sabah,P.184 Libaran,N.51 Sungai Manila,5815,5898
+2019-01-01,Sabah,P.184 Libaran,N.52 Sungai Sibuga,5101,5976
+2022-01-01,Sabah,P.184 Libaran,N.52 Sungai Sibuga,5432,6228
+2024-01-01,Sabah,P.184 Libaran,N.52 Sungai Sibuga,5957,7407
+2019-01-01,Sabah,P.185 Batu Sapi,N.53 Sekong,5805,7635
+2022-01-01,Sabah,P.185 Batu Sapi,N.53 Sekong,5305,7089
+2024-01-01,Sabah,P.185 Batu Sapi,N.53 Sekong,6031,7623
+2019-01-01,Sabah,P.185 Batu Sapi,N.54 Karamunting,3831,4641
+2022-01-01,Sabah,P.185 Batu Sapi,N.54 Karamunting,3428,4265
+2024-01-01,Sabah,P.185 Batu Sapi,N.54 Karamunting,3608,5534
+2019-01-01,Sabah,P.186 Sandakan,N.55 Elopura,5661,7451
+2022-01-01,Sabah,P.186 Sandakan,N.55 Elopura,5376,6916
+2024-01-01,Sabah,P.186 Sandakan,N.55 Elopura,5460,7096
+2019-01-01,Sabah,P.186 Sandakan,N.56 Tanjong Papat,3019,4082
+2022-01-01,Sabah,P.186 Sandakan,N.56 Tanjong Papat,4557,5872
+2024-01-01,Sabah,P.186 Sandakan,N.56 Tanjong Papat,2834,3241
+2019-01-01,Sabah,P.187 Kinabatangan,N.57 Kuamut,2197,3364
+2022-01-01,Sabah,P.187 Kinabatangan,N.57 Kuamut,2799,3915
+2024-01-01,Sabah,P.187 Kinabatangan,N.57 Kuamut,3463,4060
+2019-01-01,Sabah,P.187 Kinabatangan,N.58 Lamag,3535,4419
+2022-01-01,Sabah,P.187 Kinabatangan,N.58 Lamag,4353,5689
+2024-01-01,Sabah,P.187 Kinabatangan,N.58 Lamag,4798,5392
+2019-01-01,Sabah,P.187 Kinabatangan,N.59 Sukau,4127,5342
+2022-01-01,Sabah,P.187 Kinabatangan,N.59 Sukau,4497,5578
+2024-01-01,Sabah,P.187 Kinabatangan,N.59 Sukau,4357,5318
+2019-01-01,Sabah,P.188 Lahad Datu,N.60 Tungku,4116,4911
+2022-01-01,Sabah,P.188 Lahad Datu,N.60 Tungku,4480,5524
+2024-01-01,Sabah,P.188 Lahad Datu,N.60 Tungku,5208,5996
+2019-01-01,Sabah,P.188 Lahad Datu,N.61 Segama,4830,6598
+2022-01-01,Sabah,P.188 Lahad Datu,N.61 Segama,4763,6819
+2024-01-01,Sabah,P.188 Lahad Datu,N.61 Segama,5643,7074
+2019-01-01,Sabah,P.188 Lahad Datu,N.62 Silam,3257,4468
+2022-01-01,Sabah,P.188 Lahad Datu,N.62 Silam,3588,4658
+2024-01-01,Sabah,P.188 Lahad Datu,N.62 Silam,5470,6123
+2019-01-01,Sabah,P.188 Lahad Datu,N.63 Kunak,3830,5329
+2022-01-01,Sabah,P.188 Lahad Datu,N.63 Kunak,4480,5838
+2024-01-01,Sabah,P.188 Lahad Datu,N.63 Kunak,4539,6608
+2019-01-01,Sabah,P.189 Semporna,N.64 Sulabayan,2101,2443
+2022-01-01,Sabah,P.189 Semporna,N.64 Sulabayan,2875,3370
+2024-01-01,Sabah,P.189 Semporna,N.64 Sulabayan,3092,3522
+2019-01-01,Sabah,P.189 Semporna,N.65 Senallang,3679,6882
+2022-01-01,Sabah,P.189 Semporna,N.65 Senallang,4653,5764
+2024-01-01,Sabah,P.189 Semporna,N.65 Senallang,4366,6431
+2019-01-01,Sabah,P.189 Semporna,N.66 Bugaya,4106,5950
+2022-01-01,Sabah,P.189 Semporna,N.66 Bugaya,4377,5163
+2024-01-01,Sabah,P.189 Semporna,N.66 Bugaya,4495,5912
+2019-01-01,Sabah,P.190 Tawau,N.67 Balung,4640,5756
+2022-01-01,Sabah,P.190 Tawau,N.67 Balung,4716,5798
+2024-01-01,Sabah,P.190 Tawau,N.67 Balung,4560,5599
+2019-01-01,Sabah,P.190 Tawau,N.68 Apas,3209,4234
+2022-01-01,Sabah,P.190 Tawau,N.68 Apas,4303,5728
+2024-01-01,Sabah,P.190 Tawau,N.68 Apas,4360,5400
+2019-01-01,Sabah,P.190 Tawau,N.69 Sri Tanjong,5518,7425
+2022-01-01,Sabah,P.190 Tawau,N.69 Sri Tanjong,5514,7599
+2024-01-01,Sabah,P.190 Tawau,N.69 Sri Tanjong,6386,9832
+2019-01-01,Sabah,P.191 Kalabakan,N.70 Kukusan,7596,9007
+2022-01-01,Sabah,P.191 Kalabakan,N.70 Kukusan,5310,7900
+2024-01-01,Sabah,P.191 Kalabakan,N.70 Kukusan,5393,7545
+2019-01-01,Sabah,P.191 Kalabakan,N.71 Tanjung Batu,4225,5722
+2022-01-01,Sabah,P.191 Kalabakan,N.71 Tanjung Batu,4211,5128
+2024-01-01,Sabah,P.191 Kalabakan,N.71 Tanjung Batu,3549,4545
+2019-01-01,Sabah,P.191 Kalabakan,N.72 Merotai,4262,6003
+2022-01-01,Sabah,P.191 Kalabakan,N.72 Merotai,4783,5697
+2024-01-01,Sabah,P.191 Kalabakan,N.72 Merotai,4934,7166
+2019-01-01,Sabah,P.191 Kalabakan,N.73 Sebatik,3310,4031
+2022-01-01,Sabah,P.191 Kalabakan,N.73 Sebatik,3839,4651
+2024-01-01,Sabah,P.191 Kalabakan,N.73 Sebatik,3506,4604
+2019-01-01,Sarawak,P.192 Mas Gading,N.01 Opar,3381,4088
+2022-01-01,Sarawak,P.192 Mas Gading,N.01 Opar,3485,4520
+2024-01-01,Sarawak,P.192 Mas Gading,N.01 Opar,3545,4666
+2019-01-01,Sarawak,P.192 Mas Gading,N.02 Tasik Biru,4379,5511
+2022-01-01,Sarawak,P.192 Mas Gading,N.02 Tasik Biru,5037,5349
+2024-01-01,Sarawak,P.192 Mas Gading,N.02 Tasik Biru,4383,5462
+2019-01-01,Sarawak,P.193 Santubong,N.03 Tanjong Datu,3739,5021
+2022-01-01,Sarawak,P.193 Santubong,N.03 Tanjong Datu,4530,5343
+2024-01-01,Sarawak,P.193 Santubong,N.03 Tanjong Datu,4444,5623
+2019-01-01,Sarawak,P.193 Santubong,N.04 Pantai Damai,5490,6547
+2022-01-01,Sarawak,P.193 Santubong,N.04 Pantai Damai,5623,6552
+2024-01-01,Sarawak,P.193 Santubong,N.04 Pantai Damai,6734,7601
+2019-01-01,Sarawak,P.193 Santubong,N.05 Demak Laut,4354,5164
+2022-01-01,Sarawak,P.193 Santubong,N.05 Demak Laut,5525,6412
+2024-01-01,Sarawak,P.193 Santubong,N.05 Demak Laut,5441,6976
+2019-01-01,Sarawak,P.194 Petra Jaya,N.06 Tupong,5852,7314
+2022-01-01,Sarawak,P.194 Petra Jaya,N.06 Tupong,6037,7666
+2024-01-01,Sarawak,P.194 Petra Jaya,N.06 Tupong,6459,7910
+2019-01-01,Sarawak,P.194 Petra Jaya,N.07 Samariang,7688,8855
+2022-01-01,Sarawak,P.194 Petra Jaya,N.07 Samariang,7095,9741
+2024-01-01,Sarawak,P.194 Petra Jaya,N.07 Samariang,8257,10631
+2019-01-01,Sarawak,P.194 Petra Jaya,N.08 Satok,5393,6600
+2022-01-01,Sarawak,P.194 Petra Jaya,N.08 Satok,6116,6529
+2024-01-01,Sarawak,P.194 Petra Jaya,N.08 Satok,7277,7680
+2019-01-01,Sarawak,P.195 Bandar Kuching,N.09 Padungan,5002,6699
+2022-01-01,Sarawak,P.195 Bandar Kuching,N.09 Padungan,6209,8454
+2024-01-01,Sarawak,P.195 Bandar Kuching,N.09 Padungan,6155,8556
+2019-01-01,Sarawak,P.195 Bandar Kuching,N.10 Pending,4215,6159
+2022-01-01,Sarawak,P.195 Bandar Kuching,N.10 Pending,5131,7077
+2024-01-01,Sarawak,P.195 Bandar Kuching,N.10 Pending,4695,6573
+2019-01-01,Sarawak,P.195 Bandar Kuching,N.11 Batu Lintang,6316,8952
+2022-01-01,Sarawak,P.195 Bandar Kuching,N.11 Batu Lintang,6038,8414
+2024-01-01,Sarawak,P.195 Bandar Kuching,N.11 Batu Lintang,7082,8720
+2019-01-01,Sarawak,P.196 Stampin,N.12 Kota Sentosa,7352,9175
+2022-01-01,Sarawak,P.196 Stampin,N.12 Kota Sentosa,6444,8019
+2024-01-01,Sarawak,P.196 Stampin,N.12 Kota Sentosa,7089,8490
+2019-01-01,Sarawak,P.196 Stampin,N.13 Batu Kitang,5514,7214
+2022-01-01,Sarawak,P.196 Stampin,N.13 Batu Kitang,6238,7488
+2024-01-01,Sarawak,P.196 Stampin,N.13 Batu Kitang,6785,7647
+2019-01-01,Sarawak,P.196 Stampin,N.14 Batu Kawah,5717,7354
+2022-01-01,Sarawak,P.196 Stampin,N.14 Batu Kawah,6292,7821
+2024-01-01,Sarawak,P.196 Stampin,N.14 Batu Kawah,7101,8428
+2019-01-01,Sarawak,P.197 Kota Samarahan,N.15 Asajaya,3155,4595
+2022-01-01,Sarawak,P.197 Kota Samarahan,N.15 Asajaya,4191,4887
+2024-01-01,Sarawak,P.197 Kota Samarahan,N.15 Asajaya,3834,4893
+2019-01-01,Sarawak,P.197 Kota Samarahan,N.16 Muara Tuang,4417,5539
+2022-01-01,Sarawak,P.197 Kota Samarahan,N.16 Muara Tuang,5504,6869
+2024-01-01,Sarawak,P.197 Kota Samarahan,N.16 Muara Tuang,5975,7469
+2019-01-01,Sarawak,P.197 Kota Samarahan,N.17 Stakan,6074,7100
+2022-01-01,Sarawak,P.197 Kota Samarahan,N.17 Stakan,6060,7001
+2024-01-01,Sarawak,P.197 Kota Samarahan,N.17 Stakan,7513,8879
+2019-01-01,Sarawak,P.198 Puncak Borneo,N.18 Serembu,3396,4798
+2022-01-01,Sarawak,P.198 Puncak Borneo,N.18 Serembu,4158,5972
+2024-01-01,Sarawak,P.198 Puncak Borneo,N.18 Serembu,4797,6114
+2019-01-01,Sarawak,P.198 Puncak Borneo,N.19 Mambong,4374,5164
+2022-01-01,Sarawak,P.198 Puncak Borneo,N.19 Mambong,4360,5368
+2024-01-01,Sarawak,P.198 Puncak Borneo,N.19 Mambong,5217,6736
+2019-01-01,Sarawak,P.198 Puncak Borneo,N.20 Tarat,3502,4694
+2022-01-01,Sarawak,P.198 Puncak Borneo,N.20 Tarat,4022,4876
+2024-01-01,Sarawak,P.198 Puncak Borneo,N.20 Tarat,3544,4707
+2019-01-01,Sarawak,P.199 Serian,N.21 Tebedu,2736,3926
+2022-01-01,Sarawak,P.199 Serian,N.21 Tebedu,2686,3934
+2024-01-01,Sarawak,P.199 Serian,N.21 Tebedu,3207,4215
+2019-01-01,Sarawak,P.199 Serian,N.22 Kedup,2874,3380
+2022-01-01,Sarawak,P.199 Serian,N.22 Kedup,2823,3325
+2024-01-01,Sarawak,P.199 Serian,N.22 Kedup,3400,3685
+2019-01-01,Sarawak,P.199 Serian,N.23 Bukit Semuja,4838,6042
+2022-01-01,Sarawak,P.199 Serian,N.23 Bukit Semuja,4628,5766
+2024-01-01,Sarawak,P.199 Serian,N.23 Bukit Semuja,4674,5685
+2019-01-01,Sarawak,P.200 Batang Sadong,N.24 Sadong Jaya,3401,4314
+2022-01-01,Sarawak,P.200 Batang Sadong,N.24 Sadong Jaya,3634,4059
+2024-01-01,Sarawak,P.200 Batang Sadong,N.24 Sadong Jaya,5030,5681
+2019-01-01,Sarawak,P.200 Batang Sadong,N.25 Simunjan,2988,4191
+2022-01-01,Sarawak,P.200 Batang Sadong,N.25 Simunjan,3599,4209
+2024-01-01,Sarawak,P.200 Batang Sadong,N.25 Simunjan,3663,4500
+2019-01-01,Sarawak,P.200 Batang Sadong,N.26 Gedong,2547,3349
+2022-01-01,Sarawak,P.200 Batang Sadong,N.26 Gedong,3274,4523
+2024-01-01,Sarawak,P.200 Batang Sadong,N.26 Gedong,3118,4712
+2019-01-01,Sarawak,P.201 Batang Lupar,N.27 Sebuyau,2836,3901
+2022-01-01,Sarawak,P.201 Batang Lupar,N.27 Sebuyau,3255,3953
+2024-01-01,Sarawak,P.201 Batang Lupar,N.27 Sebuyau,3151,3926
+2019-01-01,Sarawak,P.201 Batang Lupar,N.28 Lingga,2827,3347
+2022-01-01,Sarawak,P.201 Batang Lupar,N.28 Lingga,2570,3281
+2024-01-01,Sarawak,P.201 Batang Lupar,N.28 Lingga,2799,3151
+2019-01-01,Sarawak,P.201 Batang Lupar,N.29 Beting Maro,2342,2770
+2022-01-01,Sarawak,P.201 Batang Lupar,N.29 Beting Maro,3438,3658
+2024-01-01,Sarawak,P.201 Batang Lupar,N.29 Beting Maro,3578,4292
+2019-01-01,Sarawak,P.202 Sri Aman,N.30 Balai Ringin,2543,3301
+2022-01-01,Sarawak,P.202 Sri Aman,N.30 Balai Ringin,3084,3497
+2024-01-01,Sarawak,P.202 Sri Aman,N.30 Balai Ringin,2655,3345
+2019-01-01,Sarawak,P.202 Sri Aman,N.31 Bukit Begunan,2384,2892
+2022-01-01,Sarawak,P.202 Sri Aman,N.31 Bukit Begunan,2967,3319
+2024-01-01,Sarawak,P.202 Sri Aman,N.31 Bukit Begunan,2833,3589
+2019-01-01,Sarawak,P.202 Sri Aman,N.32 Simanggang,4291,5271
+2022-01-01,Sarawak,P.202 Sri Aman,N.32 Simanggang,4475,6185
+2024-01-01,Sarawak,P.202 Sri Aman,N.32 Simanggang,4162,5798
+2019-01-01,Sarawak,P.203 Lubok Antu,N.33 Engkilili,2634,3125
+2022-01-01,Sarawak,P.203 Lubok Antu,N.33 Engkilili,2513,2965
+2024-01-01,Sarawak,P.203 Lubok Antu,N.33 Engkilili,3265,3773
+2019-01-01,Sarawak,P.203 Lubok Antu,N.34 Batang Ai,3021,4314
+2022-01-01,Sarawak,P.203 Lubok Antu,N.34 Batang Ai,3724,4533
+2024-01-01,Sarawak,P.203 Lubok Antu,N.34 Batang Ai,4638,5578
+2019-01-01,Sarawak,P.204 Betong,N.35 Saribas,2638,3359
+2022-01-01,Sarawak,P.204 Betong,N.35 Saribas,3578,4198
+2024-01-01,Sarawak,P.204 Betong,N.35 Saribas,3959,4167
+2019-01-01,Sarawak,P.204 Betong,N.36 Layar,3763,4851
+2022-01-01,Sarawak,P.204 Betong,N.36 Layar,4235,5359
+2024-01-01,Sarawak,P.204 Betong,N.36 Layar,4741,5471
+2019-01-01,Sarawak,P.204 Betong,N.37 Bukit Saban,2575,4073
+2022-01-01,Sarawak,P.204 Betong,N.37 Bukit Saban,3486,4171
+2024-01-01,Sarawak,P.204 Betong,N.37 Bukit Saban,3329,3916
+2019-01-01,Sarawak,P.205 Saratok,N.38 Kalaka,3735,4762
+2022-01-01,Sarawak,P.205 Saratok,N.38 Kalaka,3783,4923
+2024-01-01,Sarawak,P.205 Saratok,N.38 Kalaka,3674,4680
+2019-01-01,Sarawak,P.205 Saratok,N.39 Krian,2627,3511
+2022-01-01,Sarawak,P.205 Saratok,N.39 Krian,3750,4201
+2024-01-01,Sarawak,P.205 Saratok,N.39 Krian,3396,4799
+2019-01-01,Sarawak,P.205 Saratok,N.40 Kabong,2669,3290
+2022-01-01,Sarawak,P.205 Saratok,N.40 Kabong,3060,4011
+2024-01-01,Sarawak,P.205 Saratok,N.40 Kabong,3159,3989
+2019-01-01,Sarawak,P.206 Tanjong Manis,N.41 Kuala Rajang,2995,3948
+2022-01-01,Sarawak,P.206 Tanjong Manis,N.41 Kuala Rajang,3494,4771
+2024-01-01,Sarawak,P.206 Tanjong Manis,N.41 Kuala Rajang,4282,4959
+2019-01-01,Sarawak,P.206 Tanjong Manis,N.42 Semop,2964,3590
+2022-01-01,Sarawak,P.206 Tanjong Manis,N.42 Semop,2711,3384
+2024-01-01,Sarawak,P.206 Tanjong Manis,N.42 Semop,3800,4437
+2019-01-01,Sarawak,P.207 Igan,N.43 Daro,3234,3976
+2022-01-01,Sarawak,P.207 Igan,N.43 Daro,4000,4930
+2024-01-01,Sarawak,P.207 Igan,N.43 Daro,3355,4546
+2019-01-01,Sarawak,P.207 Igan,N.44 Jemoreng,2709,3961
+2022-01-01,Sarawak,P.207 Igan,N.44 Jemoreng,3210,4146
+2024-01-01,Sarawak,P.207 Igan,N.44 Jemoreng,4317,4676
+2019-01-01,Sarawak,P.208 Sarikei,N.45 Repok,3743,5143
+2022-01-01,Sarawak,P.208 Sarikei,N.45 Repok,4244,6319
+2024-01-01,Sarawak,P.208 Sarikei,N.45 Repok,5162,6441
+2019-01-01,Sarawak,P.208 Sarikei,N.46 Meradong,2779,4050
+2022-01-01,Sarawak,P.208 Sarikei,N.46 Meradong,3019,3974
+2024-01-01,Sarawak,P.208 Sarikei,N.46 Meradong,3540,4219
+2019-01-01,Sarawak,P.209 Julau,N.47 Pakan,2678,3166
+2022-01-01,Sarawak,P.209 Julau,N.47 Pakan,3363,3677
+2024-01-01,Sarawak,P.209 Julau,N.47 Pakan,3631,4303
+2019-01-01,Sarawak,P.209 Julau,N.48 Meluan,2387,3524
+2022-01-01,Sarawak,P.209 Julau,N.48 Meluan,2715,3615
+2024-01-01,Sarawak,P.209 Julau,N.48 Meluan,3264,4363
+2019-01-01,Sarawak,P.210 Kanowit,N.49 Ngemah,1940,2338
+2022-01-01,Sarawak,P.210 Kanowit,N.49 Ngemah,2566,3551
+2024-01-01,Sarawak,P.210 Kanowit,N.49 Ngemah,3161,2747
+2019-01-01,Sarawak,P.210 Kanowit,N.50 Machan,3107,4178
+2022-01-01,Sarawak,P.210 Kanowit,N.50 Machan,2740,3873
+2024-01-01,Sarawak,P.210 Kanowit,N.50 Machan,3782,4756
+2019-01-01,Sarawak,P.211 Lanang,N.51 Bukit Assek,4013,5395
+2022-01-01,Sarawak,P.211 Lanang,N.51 Bukit Assek,4247,5757
+2024-01-01,Sarawak,P.211 Lanang,N.51 Bukit Assek,4808,5259
+2019-01-01,Sarawak,P.211 Lanang,N.52 Dudong,4879,5855
+2022-01-01,Sarawak,P.211 Lanang,N.52 Dudong,5405,6573
+2024-01-01,Sarawak,P.211 Lanang,N.52 Dudong,5454,6479
+2019-01-01,Sarawak,P.212 Sibu,N.53 Bawang Assan,2589,3095
+2022-01-01,Sarawak,P.212 Sibu,N.53 Bawang Assan,3317,4140
+2024-01-01,Sarawak,P.212 Sibu,N.53 Bawang Assan,4254,5010
+2019-01-01,Sarawak,P.212 Sibu,N.54 Pelawan,6380,7896
+2022-01-01,Sarawak,P.212 Sibu,N.54 Pelawan,6357,8206
+2024-01-01,Sarawak,P.212 Sibu,N.54 Pelawan,6580,8172
+2019-01-01,Sarawak,P.212 Sibu,N.55 Nangka,5248,6476
+2022-01-01,Sarawak,P.212 Sibu,N.55 Nangka,5834,7263
+2024-01-01,Sarawak,P.212 Sibu,N.55 Nangka,7103,8083
+2019-01-01,Sarawak,P.213 Mukah,N.56 Dalat,3848,5143
+2022-01-01,Sarawak,P.213 Mukah,N.56 Dalat,4420,5115
+2024-01-01,Sarawak,P.213 Mukah,N.56 Dalat,4289,4938
+2019-01-01,Sarawak,P.213 Mukah,N.57 Tellian,4572,5687
+2022-01-01,Sarawak,P.213 Mukah,N.57 Tellian,4362,6003
+2024-01-01,Sarawak,P.213 Mukah,N.57 Tellian,6513,7304
+2019-01-01,Sarawak,P.213 Mukah,N.58 Balingian,3122,4068
+2022-01-01,Sarawak,P.213 Mukah,N.58 Balingian,4645,5926
+2024-01-01,Sarawak,P.213 Mukah,N.58 Balingian,5015,6013
+2019-01-01,Sarawak,P.214 Selangau,N.59 Tamin,2685,3492
+2022-01-01,Sarawak,P.214 Selangau,N.59 Tamin,3214,4292
+2024-01-01,Sarawak,P.214 Selangau,N.59 Tamin,4171,4863
+2019-01-01,Sarawak,P.214 Selangau,N.60 Kakus,4026,4892
+2022-01-01,Sarawak,P.214 Selangau,N.60 Kakus,4313,5203
+2024-01-01,Sarawak,P.214 Selangau,N.60 Kakus,4588,5618
+2019-01-01,Sarawak,P.215 Kapit,N.61 Pelagus,3192,4186
+2022-01-01,Sarawak,P.215 Kapit,N.61 Pelagus,3172,3941
+2024-01-01,Sarawak,P.215 Kapit,N.61 Pelagus,3131,3794
+2019-01-01,Sarawak,P.215 Kapit,N.62 Katibas,2662,3443
+2022-01-01,Sarawak,P.215 Kapit,N.62 Katibas,2926,3477
+2024-01-01,Sarawak,P.215 Kapit,N.62 Katibas,3080,4157
+2019-01-01,Sarawak,P.215 Kapit,N.63 Bukit Goram,3288,4554
+2022-01-01,Sarawak,P.215 Kapit,N.63 Bukit Goram,3237,4447
+2024-01-01,Sarawak,P.215 Kapit,N.63 Bukit Goram,3312,4514
+2019-01-01,Sarawak,P.216 Hulu Rajang,N.64 Baleh,3594,4452
+2022-01-01,Sarawak,P.216 Hulu Rajang,N.64 Baleh,2801,3286
+2024-01-01,Sarawak,P.216 Hulu Rajang,N.64 Baleh,2641,4009
+2019-01-01,Sarawak,P.216 Hulu Rajang,N.65 Belaga,4169,4676
+2022-01-01,Sarawak,P.216 Hulu Rajang,N.65 Belaga,2428,3480
+2024-01-01,Sarawak,P.216 Hulu Rajang,N.65 Belaga,3667,4397
+2019-01-01,Sarawak,P.216 Hulu Rajang,N.66 Murum,3376,4009
+2022-01-01,Sarawak,P.216 Hulu Rajang,N.66 Murum,4019,4620
+2024-01-01,Sarawak,P.216 Hulu Rajang,N.66 Murum,4670,5504
+2019-01-01,Sarawak,P.217 Bintulu,N.67 Jepak,4679,4986
+2022-01-01,Sarawak,P.217 Bintulu,N.67 Jepak,5478,6426
+2024-01-01,Sarawak,P.217 Bintulu,N.67 Jepak,5713,7698
+2019-01-01,Sarawak,P.217 Bintulu,N.68 Tanjong Batu,9244,9727
+2022-01-01,Sarawak,P.217 Bintulu,N.68 Tanjong Batu,10617,11967
+2024-01-01,Sarawak,P.217 Bintulu,N.68 Tanjong Batu,10211,11489
+2019-01-01,Sarawak,P.217 Bintulu,N.69 Kemena,3704,4835
+2022-01-01,Sarawak,P.217 Bintulu,N.69 Kemena,5214,6404
+2024-01-01,Sarawak,P.217 Bintulu,N.69 Kemena,4470,5423
+2019-01-01,Sarawak,P.217 Bintulu,N.70 Samalaju,6387,7901
+2022-01-01,Sarawak,P.217 Bintulu,N.70 Samalaju,6913,8083
+2024-01-01,Sarawak,P.217 Bintulu,N.70 Samalaju,7306,10228
+2019-01-01,Sarawak,P.218 Sibuti,N.71 Bekenu,5086,5828
+2022-01-01,Sarawak,P.218 Sibuti,N.71 Bekenu,4639,5630
+2024-01-01,Sarawak,P.218 Sibuti,N.71 Bekenu,6150,7204
+2019-01-01,Sarawak,P.218 Sibuti,N.72 Lambir,4697,5836
+2022-01-01,Sarawak,P.218 Sibuti,N.72 Lambir,5877,7106
+2024-01-01,Sarawak,P.218 Sibuti,N.72 Lambir,5531,6597
+2019-01-01,Sarawak,P.219 Miri,N.73 Piasau,6212,8313
+2022-01-01,Sarawak,P.219 Miri,N.73 Piasau,7560,9236
+2024-01-01,Sarawak,P.219 Miri,N.73 Piasau,8329,9593
+2019-01-01,Sarawak,P.219 Miri,N.74 Pujut,6210,7487
+2022-01-01,Sarawak,P.219 Miri,N.74 Pujut,6423,8014
+2024-01-01,Sarawak,P.219 Miri,N.74 Pujut,6457,8181
+2019-01-01,Sarawak,P.219 Miri,N.75 Senadin,6148,7432
+2022-01-01,Sarawak,P.219 Miri,N.75 Senadin,6182,7613
+2024-01-01,Sarawak,P.219 Miri,N.75 Senadin,6935,8134
+2019-01-01,Sarawak,P.220 Baram,N.76 Marudi,3375,4521
+2022-01-01,Sarawak,P.220 Baram,N.76 Marudi,4355,5237
+2024-01-01,Sarawak,P.220 Baram,N.76 Marudi,4478,5186
+2019-01-01,Sarawak,P.220 Baram,N.77 Telang Usan,3194,4339
+2022-01-01,Sarawak,P.220 Baram,N.77 Telang Usan,3870,4694
+2024-01-01,Sarawak,P.220 Baram,N.77 Telang Usan,4281,4795
+2019-01-01,Sarawak,P.220 Baram,N.78 Mulu,2868,4054
+2022-01-01,Sarawak,P.220 Baram,N.78 Mulu,4234,5382
+2024-01-01,Sarawak,P.220 Baram,N.78 Mulu,4369,5066
+2019-01-01,Sarawak,P.221 Limbang,N.79 Bukit Kota,4861,6187
+2022-01-01,Sarawak,P.221 Limbang,N.79 Bukit Kota,5080,6018
+2024-01-01,Sarawak,P.221 Limbang,N.79 Bukit Kota,4380,5519
+2019-01-01,Sarawak,P.221 Limbang,N.80 Batu Danau,3670,4797
+2022-01-01,Sarawak,P.221 Limbang,N.80 Batu Danau,3034,3542
+2024-01-01,Sarawak,P.221 Limbang,N.80 Batu Danau,3304,4284
+2019-01-01,Sarawak,P.222 Lawas,N.81 Ba'kelalan,2829,3299
+2022-01-01,Sarawak,P.222 Lawas,N.81 Ba'kelalan,2601,2914
+2024-01-01,Sarawak,P.222 Lawas,N.81 Ba'kelalan,2965,3695
+2019-01-01,Sarawak,P.222 Lawas,N.82 Bukit Sari,4257,5753
+2022-01-01,Sarawak,P.222 Lawas,N.82 Bukit Sari,3794,5462
+2024-01-01,Sarawak,P.222 Lawas,N.82 Bukit Sari,4500,5610
