@@ -3,10 +3,16 @@
 A fully local RAG chatbot by Akmal over Malaysian Household Income statistics from [open.dosm.gov.my](https://open.dosm.gov.my), built with n8n, Qdrant, and Ollama. Answers questions with citation, handles off topic queries, and support CSV export.
 
 ---
+## Demo Video
+
+Watch the chatbot video demonstration:
+
+https://www.youtube.com/watch?v=a-zCZwmRfR8
 
 ## Quickstart (≤10 min)
 
 **Prerequisites:** Python 3.x, Node.js, Docker, [Ollama](https://ollama.com), [n8n](https://n8n.io)
+
 
 ### 1. Clone the repo
 
