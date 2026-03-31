@@ -138,7 +138,8 @@ User Query
 ---
 
 ## Evaluation & Results
-
+> 📹 **Demo Walkthrough** — [Watch the full evaluation run on YouTube](https://youtu.be/gml7nsuBH9U)  
+> End-to-end demo of running `run_eval.py` → `scoring.py` → `calc_metrics.py` against the live chatbot.
 ## Evaluation Scripts
  
 | Script | Purpose | Usage |
