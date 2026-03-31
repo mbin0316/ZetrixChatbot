@@ -12,7 +12,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
 from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, VectorParams
+from qdrant_client.models import Distance, VectorParams, PayloadSchemaType
 
 from config import (
     OLLAMA_BASE_URL, EMBEDDING_MODEL, EMBEDDING_DIM,
@@ -65,13 +65,16 @@ def setup_collection(client):
         vectors_config=VectorParams(size=EMBEDDING_DIM, distance=Distance.COSINE),
     )
     log.info(f"Created collection: {COLLECTION_NAME}")
-    
-    # Add payload indexes for metadata filtering
-    from qdrant_client.models import PayloadSchemaType
-    client.create_payload_index(COLLECTION_NAME, "metadata.state", PayloadSchemaType.KEYWORD)
-    client.create_payload_index(COLLECTION_NAME, "metadata.year",  PayloadSchemaType.KEYWORD)
-    client.create_payload_index(COLLECTION_NAME, "metadata.level", PayloadSchemaType.KEYWORD)
-    log.info("Payload indexes created for state, year, level.")
+
+    # Add payload indexes for fast metadata filtering
+    client.create_payload_index(COLLECTION_NAME, "metadata.state",    PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION_NAME, "metadata.year",     PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION_NAME, "metadata.level",    PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION_NAME, "metadata.district", PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION_NAME, "metadata.parlimen", PayloadSchemaType.KEYWORD)
+    client.create_payload_index(COLLECTION_NAME, "metadata.dun",      PayloadSchemaType.KEYWORD)
+    log.info("Payload indexes created for state, year, level, district, parlimen, dun.")
+
 
 def embed_and_store(chunks):
     client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY or None)
@@ -101,20 +104,22 @@ def smoke_test(vectorstore):
     queries = [
         "Malaysia national median income 2022",
         "highest income state 2022",
-        "Johor Bahru district income",
+        "Johor Bahru district income 2022",
+        "P.001 Padang Besar parlimen income 2024",
+        "N.01 Titi Tinggi DUN income 2024",
     ]
     for q in queries:
         results = vectorstore.similarity_search(q, k=2)
         log.info(f"  Q: {q}")
         for r in results:
-            log.info(f"    → {r.page_content[:100]}")
+            log.info(f"    → {r.page_content[:120]}")
 
 
 def main():
     log.info(f"Using Ollama at {OLLAMA_BASE_URL}")
     log.info(f"Embedding model : {EMBEDDING_MODEL}")
 
-    docs   = load_docs()
+    docs = load_docs()
     if not docs:
         log.error("No documents loaded. Check your datasets/ folder.")
         sys.exit(1)

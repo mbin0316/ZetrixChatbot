@@ -5,7 +5,7 @@ A fully local RAG chatbot by Akmal over Malaysian Household Income statistics fr
 ---
 ## Demo Video
 
-Watch the chatbot video demonstration:
+Watch the chatbot video git demonstration:
 
 https://www.youtube.com/watch?v=a-zCZwmRfR8
 

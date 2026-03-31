@@ -1,20 +1,27 @@
-import json, numpy as np
+import json
+import numpy as np
 
-results = [json.loads(l) for l in open("results.jsonl")]
-total = len(results)
+with open("results.jsonl") as f:
+    rows = [json.loads(line) for line in f]
 
-hit  = sum(1 for r in results if str(r.get("hit")).lower()  == "true")
-hall = sum(1 for r in results if str(r.get("hallucinated")).lower() == "true")
-corr = sum(1 for r in results if str(r.get("correct")).lower() == "true")
-lats = [r["latency_ms"] for r in results if r["latency_ms"] > 0]
+total = len(rows)
+hits, hallucinated, correct = 0, 0, 0
+latencies = []
 
-p50 = int(np.percentile(lats, 50))
-p95 = int(np.percentile(lats, 95))
+for row in rows:
+    hits        += int(row.get("hit", 0) or 0)
+    hallucinated += int(row.get("hallucinated", 0) or 0)
+    correct     += int(row.get("correct", 0) or 0)
+    if row.get("latency_ms"):
+        latencies.append(int(row["latency_ms"]))
 
-print(f"\n{'='*44}")
-print(f"  Retrieval Hit Rate : {hit}/{total} = {hit/total*100:.1f}%  {'✅' if hit/total >= 0.8 else '❌'} (target >80%)")
-print(f"  Hallucination Rate : {hall}/{total} = {hall/total*100:.1f}% {'✅' if hall/total <= 0.1 else '❌'} (target <10%)")
-print(f"  Correct Rate       : {corr}/{total} = {corr/total*100:.1f}%")
-print(f"  p50 Latency        : {p50}ms {'✅' if p50 <= 2000 else '❌'} (target <2000ms)")
-print(f"  p95 Latency        : {p95}ms {'✅' if p95 <= 4000 else '❌'} (target <4000ms)")
-print(f"{'='*44}\n")
+p50 = int(np.percentile(latencies, 50)) if latencies else 0
+p95 = int(np.percentile(latencies, 95)) if latencies else 0
+
+print("============================================")
+print(f"  Retrieval Hit Rate : {hits}/{total} = {hits/total*100:.1f}%  {'✅' if hits/total >= 0.8 else '❌'} (target >80%)")
+print(f"  Hallucination Rate : {hallucinated}/{total} = {hallucinated/total*100:.1f}% {'✅' if hallucinated/total < 0.1 else '❌'} (target <10%)")
+print(f"  Correct Rate       : {correct}/{total} = {correct/total*100:.1f}%")
+print(f"  p50 Latency        : {p50}ms {'✅' if p50 < 2000 else '❌'} (target <2000ms)")
+print(f"  p95 Latency        : {p95}ms {'✅' if p95 < 4000 else '❌'} (target <4000ms)")
+print("============================================")
