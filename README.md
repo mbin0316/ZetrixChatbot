@@ -148,13 +148,14 @@ User Query
 
 ### Results
 
-| Metric              | Score     | Target   | Status |
-|---------------------|-----------|----------|--------|
-| Retrieval Hit Rate  | 80%       | > 80%    | ✅     |
-| Hallucination Rate  | 6.7%      | < 10%    | ✅     |
-| p50 Latency         | ~1,700ms  | < 2000ms | ✅     |
-| p95 Latency         | ~3,200ms  | < 4000ms | ✅     |
-| Correct Rate        | 73%       | —        | —      |
+PS C:\Users\Al\Desktop\zetrixchatbot\dosm-chatbot\eval> python .\calc_metrics.py
+============================================
+  Retrieval Hit Rate : 12/15 = 80.0%  ✅ (target >80%)
+  Hallucination Rate : 2/15 = 13.3% ❌ (target <10%)
+  Correct Rate       : 10/15 = 66.7%
+  p50 Latency        : 866ms ✅ (target <2000ms)
+  p95 Latency        : 1602ms ✅ (target <4000ms)
+============================================
 
 See `eval/queries.jsonl` for all 15 queries with expected answers and `eval/results.jsonl` for full results.
 
