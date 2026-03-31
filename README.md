@@ -147,7 +147,7 @@ User Query
 - Metrics calculator: `eval/calc_metrics.py`
 
 ### Results
-These results now reflect real-world performance, with scoring and the scoring.py component providing the justification logic for retrieval hit rate, hallucination rate, and correctness. Previously, this logic was encapsulated within the n8n node workflow
+These results now reflect real-world performance, with scoring and the scoring.py component providing the justification logic for retrieval hit rate, hallucination rate, and correctness. Previously, this logic was encapsulated within the n8n node workflow. The chatbot outputs were compared against the expected data(which is confirmed data beforehand) to assess accuracy and alignment of the chatbot.
  
 | Metric | Score | Target | Status |
 |---|---|---|---|
