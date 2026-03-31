@@ -147,15 +147,17 @@ User Query
 - Metrics calculator: `eval/calc_metrics.py`
 
 ### Results
-
-PS C:\Users\Al\Desktop\zetrixchatbot\dosm-chatbot\eval> python .\calc_metrics.py
-============================================
-  Retrieval Hit Rate : 12/15 = 80.0%  ✅ (target >80%)
-  Hallucination Rate : 2/15 = 13.3% ❌ (target <10%)
-  Correct Rate       : 10/15 = 66.7%
-  p50 Latency        : 866ms ✅ (target <2000ms)
-  p95 Latency        : 1602ms ✅ (target <4000ms)
-============================================
+These results now reflect real-world performance, with scoring and the scoring.py component providing the justification logic for retrieval hit rate, hallucination rate, and correctness. Previously, this logic was encapsulated within the n8n node workflow
+ 
+| Metric | Score | Target | Status |
+|---|---|---|---|
+| Retrieval Hit Rate | 12 / 15 = **80.0%** | > 80% | ✅ Pass |
+| Hallucination Rate | 1 / 15 = **6.7%** | < 10% | ✅ Pass |
+| Correct Rate | 11 / 15 = **73.3%** | — | — |
+| p50 Latency | **973ms** | < 2000ms | ✅ Pass |
+| p95 Latency | **1239ms** | < 4000ms | ✅ Pass |
+ 
+---
 
 See `eval/queries.jsonl` for all 15 queries with expected answers and `eval/results.jsonl` for full results.
 
