@@ -139,12 +139,21 @@ User Query
 
 ## Evaluation & Results
 
-### Methodology
-
-- 15 queries covering national, state, district, parlimen, DUN levels
-- Responsible AI cases: off-topic, future date, out-of-scope
-- Automated runner: `eval/run_eval.py`
-- Metrics calculator: `eval/calc_metrics.py`
+## Evaluation Scripts
+ 
+| Script | Purpose | Usage |
+|---|---|---|
+| `eval/run_eval.py` | Sends all 15 queries to the webhook and records actual responses and latency | `python run_eval.py` |
+| `eval/scoring.py` | Auto-scores each result by comparing expected RM figures against actual response | `python scoring.py` |
+| `eval/calc_metrics.py` | Calculates hit rate, hallucination rate, correct rate, p50/p95 latency from scored results | `python calc_metrics.py` |
+ 
+### How Scoring Works (`scoring.py`)
+ 
+| Field | Logic |
+|---|---|
+| `hit` | `1` if `actual` is non-empty; `0` if empty or wrong refusal |
+| `hallucinated` | `1` if `hit=1` and `correct=0` (answered but wrong) |
+| `correct` | `1` if ≥ 50% of expected RM figures appear verbatim in the actual response; for responsible_ai queries, checks for refusal keywords |
 
 ### Results
 These results now reflect real-world performance, with scoring and the scoring.py component providing the justification logic for retrieval hit rate, hallucination rate, and correctness. Previously, this logic was encapsulated within the n8n node workflow. The chatbot outputs were compared against the expected data(which is confirmed data beforehand) to assess accuracy and alignment of the chatbot.
